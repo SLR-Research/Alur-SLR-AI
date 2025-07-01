@@ -1,6 +1,5 @@
 # Alur Pelatihan SLR dengan Gen AI untuk Artikel Jurnal Bereputasi - Panduan Spesifik
 
-<img src="./slr-workflow.png" alt="SLR Workflow" width="100%">
 ## **MODUL 1: FONDASI TEORI DAN KONSEP**
 
 ### Sesi 1: Pengenalan SLR
@@ -21,6 +20,8 @@
 - **Academic integrity**: Batasan dan pedoman penggunaan
 - **Setup**: Akses Gen AI dan eksplorasi interface
 
+---
+<img src="./slr-workflow.png" alt="SLR Workflow" width="100%">
 ---
 
 ## **MODUL 2: PERUMUSAN RESEARCH QUESTION DENGAN Gen AI**
