@@ -1,4 +1,4 @@
-# Alur Pelatihan SLR dengan Claude untuk Artikel Jurnal Bereputasi - Panduan Spesifik
+# Alur Pelatihan SLR dengan Gen AI untuk Artikel Jurnal Bereputasi - Panduan Spesifik
 
 ## **MODUL 1: FONDASI TEORI DAN KONSEP**
 
@@ -14,18 +14,18 @@
 - **Inclusion/exclusion criteria**: Pengembangan kriteria yang jelas
 - **Quality assessment**: Tools dan checklist evaluasi
 
-### Sesi 3: Pengenalan Claude dalam Penelitian
+### Sesi 3: Pengenalan Gen AI dalam Penelitian
 - **Etika penggunaan AI**: Transparansi, bias, limitasi
-- **Claude capabilities**: Natural language processing untuk research
+- **Gen AI capabilities**: Natural language processing untuk research
 - **Academic integrity**: Batasan dan pedoman penggunaan
-- **Setup**: Akses Claude dan eksplorasi interface
+- **Setup**: Akses Gen AI dan eksplorasi interface
 
 ---
 
-## **MODUL 2: PERUMUSAN RESEARCH QUESTION DENGAN CLAUDE**
+## **MODUL 2: PERUMUSAN RESEARCH QUESTION DENGAN Gen AI**
 
-### **Langkah 1: Brainstorming Topik dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 1: Brainstorming Topik dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Saya ingin melakukan systematic literature review di bidang [bidang penelitian]. 
 Tolong bantu saya:
@@ -40,8 +40,8 @@ Tolong bantu saya:
 - Research gaps yang teridentifikasi
 - Preliminary reading list
 
-### **Langkah 2: Pengembangan PICO Framework dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 2: Pengembangan PICO Framework dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan topik penelitian [topik terpilih], bantu saya mengembangkan PICO framework:
 
@@ -57,13 +57,13 @@ Tolong:
 4. Saran untuk membuat research question yang SMART
 ```
 
-**Iterasi dengan Claude:**
+**Iterasi dengan Gen AI:**
 - Diskusi setiap komponen PICO
 - Refinement berdasarkan feedback
 - Validasi dengan existing literature
 
 ### **Langkah 3: Finalisasi Research Question**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan PICO framework:
 P: [final P]
@@ -80,10 +80,10 @@ Tolong formulasikan:
 
 ---
 
-## **MODUL 3: STRATEGI PENCARIAN SCOPUS DENGAN CLAUDE**
+## **MODUL 3: STRATEGI PENCARIAN SCOPUS DENGAN Gen AI**
 
-### **Langkah 1: Pengembangan Keywords dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 1: Pengembangan Keywords dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan research question: [research question]
 Tolong bantu develop comprehensive keyword strategy:
@@ -99,13 +99,13 @@ Tolong bantu develop comprehensive keyword strategy:
 4. Berikan saran kombinasi Boolean operators (AND, OR, NOT)
 ```
 
-**Claude akan membantu:**
+**Gen AI akan membantu:**
 - Identifikasi keywords utama dan alternatif
 - Pengelompokan keywords by concepts
 - Saran struktur Boolean search
 
 ### **Langkah 2: Konstruksi Search String untuk Scopus**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan keyword clusters:
 Cluster 1: [keywords group 1]
@@ -130,7 +130,7 @@ Format: TITLE-ABS-KEY((keyword1 OR keyword2) AND (keyword3 OR keyword4))
 - Explanation untuk setiap component
 
 ### **Langkah 3: Optimasi Search Strategy**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Evaluasi search string berikut: [search string]
 
@@ -150,14 +150,14 @@ Tolong analisis:
 ### **Langkah 1: Eksekusi Search di Scopus**
 **Aktivitas Praktik:**
 1. **Login ke Scopus** dan navigasi ke Advanced Search
-2. **Input search string** yang telah dikembangkan dengan Claude
+2. **Input search string** yang telah dikembangkan dengan Gen AI
 3. **Set filters:**
    - Document type (Article, Review, Conference Paper)
    - Publication year range
    - Language (English, Indonesian, dll)
    - Subject area (jika relevan)
 
-**Prompt untuk Claude setelah mendapat hasil:**
+**Prompt untuk Gen AI setelah mendapat hasil:**
 ```
 Saya mendapat [jumlah] hasil dari Scopus dengan search string:
 [search string yang digunakan]
@@ -179,7 +179,7 @@ Tolong analisis:
 **Prosedur Export:**
 1. **Select All** hasil pencarian (atau pilih batch jika >2000)
 2. **Export** dengan format:
-   - **CSV format** untuk analisis dengan Claude
+   - **CSV format** untuk analisis dengan Gen AI
    - **RIS format** untuk reference manager
    - **BibTeX** jika diperlukan
 
@@ -196,7 +196,7 @@ Tolong analisis:
 - Cited by count
 - Affiliation
 
-**Prompt untuk Claude setelah export:**
+**Prompt untuk Gen AI setelah export:**
 ```
 Saya telah export data Scopus dengan [jumlah] entries. 
 File CSV berisi columns: [list column names]
@@ -209,7 +209,7 @@ Tolong bantu:
 ```
 
 ### **Langkah 3: Data Import dan Organization**
-**Menggunakan Claude untuk analisis CSV:**
+**Menggunakan Gen AI untuk analisis CSV:**
 ```
 Saya akan upload file CSV hasil export Scopus. 
 Tolong bantu:
@@ -239,7 +239,7 @@ Tolong bantu:
 - **Backup original data** sebelum mulai screening
 
 ### **Langkah 4: Supplementary Search (jika diperlukan)**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan hasil Scopus search, apakah perlu supplementary searches?
 
@@ -261,10 +261,10 @@ Jika ya, berikan specific search strategies untuk each source.
 
 ---
 
-## **MODUL 5: SCREENING DAN SELECTION DENGAN CLAUDE**
+## **MODUL 5: SCREENING DAN SELECTION DENGAN Gen AI**
 
 ### **Langkah 1: Pengembangan Inclusion/Exclusion Criteria**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan PICO framework dan research question, bantu develop:
 
@@ -287,7 +287,7 @@ Pastikan criteria:
 - Aligned dengan research objective
 ```
 
-### **Langkah 2: Batch Processing dengan Claude**
+### **Langkah 2: Batch Processing dengan Gen AI**
 **Untuk screening banyak artikel sekaligus:**
 ```
 Saya memiliki [jumlah] articles untuk title/abstract screening. 
@@ -322,7 +322,7 @@ ID | Decision | Reason | Confidence
 2. **Organize files** dengan naming convention: "ID_FirstAuthor_Year.pdf"
 3. **Create full-text database** dengan linking ke original screening data
 
-**Prompt untuk Claude setelah full-text review:**
+**Prompt untuk Gen AI setelah full-text review:**
 ```
 Untuk artikel yang require full-text assessment:
 
@@ -337,7 +337,7 @@ Jika full-text tidak available:
 3. Decision criteria untuk exclude due to unavailability
 4. Impact assessment pada review comprehensiveness
 ```
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu saya screen artikel berdasarkan title dan abstract:
 
@@ -361,8 +361,8 @@ Tolong:
 - Dokumentasikan reasoning untuk audit trail
 - Flag uncertain cases untuk diskusi
 
-### **Langkah 3: Full-text Screening dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 3: Full-text Screening dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Untuk artikel yang lolos title/abstract screening, bantu full-text evaluation:
 
@@ -402,7 +402,7 @@ Database columns yang diperlukan:
 - Notes/Comments
 ```
 
-**Prompt untuk Claude untuk database setup:**
+**Prompt untuk Gen AI untuk database setup:**
 ```
 Berdasarkan research questions dan included studies, bantu design optimal data extraction database:
 
@@ -419,7 +419,7 @@ Tolong suggest:
 ```
 
 ### **Langkah 2: Systematic Data Extraction Process**
-**Per study extraction dengan Claude:**
+**Per study extraction dengan Gen AI:**
 ```
 STUDY FOR EXTRACTION:
 Citation: [full citation]
@@ -444,7 +444,7 @@ Special attention to:
 ```
 
 ### **Langkah 3: Data Quality Control**
-**Claude-assisted quality checks:**
+**Gen AI-assisted quality checks:**
 ```
 Saya telah extract data dari [number] studies. 
 Tolong help dengan quality control:
@@ -479,10 +479,10 @@ Compare dan identify:
 
 ---
 
-## **MODUL 8: DATA ANALYSIS DAN SYNTHESIS DENGAN CLAUDE**
+## **MODUL 8: DATA ANALYSIS DAN SYNTHESIS DENGAN Gen AI**
 
 ### **Langkah 1: Pengembangan Data Extraction Form**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan research question dan included studies, bantu design data extraction form:
 
@@ -503,7 +503,7 @@ Untuk setiap kategori, berikan:
 ```
 
 ### **Langkah 2: Ekstraksi Data Individual Studies**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu extract data dari study berikut menggunakan form yang sudah developed:
 
@@ -518,8 +518,8 @@ Tolong extract:
 5. Highlight any concerns tentang study quality
 ```
 
-### **Langkah 3: Synthesis dan Coding dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 3: Synthesis dan Coding dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan extracted data dari [jumlah] studies, bantu:
 
@@ -539,7 +539,7 @@ Berdasarkan extracted data dari [jumlah] studies, bantu:
    - Areas needing further investigation
 ```
 
-### **Langkah 1: Descriptive Analysis dengan Claude**
+### **Langkah 1: Descriptive Analysis dengan Gen AI**
 **Analyze extracted database:**
 ```
 Berdasarkan complete extracted database dengan [number] studies:
@@ -562,7 +562,7 @@ Tolong provide comprehensive descriptive analysis:
 8. Potential publication bias indicators
 ```
 
-### **Langkah 2: Thematic Analysis dengan Claude**
+### **Langkah 2: Thematic Analysis dengan Gen AI**
 **Develop comprehensive themes:**
 ```
 Based on extracted findings dari [number] studies:
@@ -593,7 +593,7 @@ Tolong conduct systematic thematic analysis:
 ```
 
 ### **Langkah 3: Quantitative Synthesis (jika applicable)**
-**Statistical analysis dengan Claude:**
+**Statistical analysis dengan Gen AI:**
 ```
 Untuk quantitative data yang dapat di-pool:
 
@@ -625,7 +625,7 @@ Tolong assess:
    - Publication bias assessment
 ```
 
-### **Langkah 4: Evidence Grading dengan Claude**
+### **Langkah 4: Evidence Grading dengan Gen AI**
 **GRADE atau similar approach:**
 ```
 Untuk each main outcome:
@@ -662,10 +662,10 @@ RATIONALE: [detailed explanation]
 
 ---
 
-## **MODUL 9: CRITICAL APPRAISAL DENGAN CLAUDE**
+## **MODUL 9: CRITICAL APPRAISAL DENGAN Gen AI**
 
 ### **Langkah 1: Quality Assessment Tool Selection**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan study designs dalam review saya:
 [list study designs dan jumlah]
@@ -678,7 +678,7 @@ Tolong recommend:
 ```
 
 ### **Langkah 2: Individual Study Quality Assessment**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu assess quality study berikut menggunakan [tool name]:
 
@@ -694,7 +694,7 @@ Tolong evaluate:
 ```
 
 ### **Langkah 3: Overall Evidence Assessment**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan quality assessment semua studies:
 
@@ -711,10 +711,10 @@ Tolong synthesize:
 
 ---
 
-## **MODUL 10: PENULISAN ARTIKEL DENGAN CLAUDE**
+## **MODUL 10: PENULISAN ARTIKEL DENGAN Gen AI**
 
 ### **Langkah 1: Abstract Writing**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Berdasarkan completed SLR, bantu tulis structured abstract:
 
@@ -737,7 +737,7 @@ Tulis draft abstract yang:
 ```
 
 ### **Langkah 2: Introduction Section**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu tulis Introduction section dengan struktur:
 
@@ -764,7 +764,7 @@ Tulis introduction yang engaging dan well-referenced.
 ```
 
 ### **Langkah 3: Methods Section**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu tulis Methods section yang PRISMA-compliant:
 
@@ -789,7 +789,7 @@ Pastikan transparency dan reproducibility.
 ```
 
 ### **Langkah 4: Results Section**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu organize dan present results:
 
@@ -811,7 +811,7 @@ Present results objectively tanpa interpretation.
 ```
 
 ### **Langkah 5: Discussion Section**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu develop comprehensive Discussion:
 
@@ -844,8 +844,8 @@ Structure Discussion:
 Maintain balanced perspective dengan critical analysis.
 ```
 
-### **Langkah 6: Tables dan Figures dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 6: Tables dan Figures dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Bantu create comprehensive tables dan figures:
 
@@ -872,8 +872,8 @@ Format tables untuk journal submission requirements.
 
 ## **MODUL 11: FINALISASI DAN SUBMISSION**
 
-### **Langkah 1: Manuscript Review dengan Claude**
-**Prompt untuk Claude:**
+### **Langkah 1: Manuscript Review dengan Gen AI**
+**Prompt untuk Gen AI:**
 ```
 Tolong review complete manuscript untuk:
 
@@ -899,7 +899,7 @@ Berikan specific suggestions untuk improvement.
 ```
 
 ### **Langkah 2: Cover Letter Writing**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu tulis cover letter untuk journal submission:
 
@@ -922,7 +922,7 @@ Tone: Professional, confident, persuasive tapi tidak overselling.
 ```
 
 ### **Langkah 3: Response to Reviewers Preparation**
-**Prompt untuk Claude:**
+**Prompt untuk Gen AI:**
 ```
 Bantu prepare untuk potential reviewer comments:
 
@@ -981,8 +981,8 @@ Prepare responses yang constructive dan evidence-based.
 
 ## **CRITICAL SUCCESS FACTORS**
 
-1. **Always verify Claude outputs** - AI adalah assistant, bukan replacement untuk critical thinking
+1. **Always verify Gen AI outputs** - AI adalah assistant, bukan replacement untuk critical thinking
 2. **Maintain systematic approach** - Follow SLR methodology rigorously
 3. **Document all decisions** - Create audit trail untuk transparency
 4. **Quality over quantity** - Better fewer high-quality studies than many poor ones
-5. **Iterative refinement** - Use Claude untuk continuous improvement of drafts
+5. **Iterative refinement** - Use Gen AI untuk continuous improvement of drafts
