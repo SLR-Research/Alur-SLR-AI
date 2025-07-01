@@ -21,8 +21,6 @@
 - **Setup**: Akses Gen AI dan eksplorasi interface
 
 ---
-<img src="./slr-workflow.png" alt="SLR Workflow" width="100%">
----
 
 ## **MODUL 2: PERUMUSAN RESEARCH QUESTION DENGAN Gen AI**
 
