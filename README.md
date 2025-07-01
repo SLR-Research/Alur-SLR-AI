@@ -1,6 +1,7 @@
 # Alur Pelatihan SLR dengan Gen AI untuk Artikel Jurnal Bereputasi - Panduan Spesifik
 
-![Uploading slr_workflow.png…]()
+
+![slr_workflow (1)](https://github.com/user-attachments/assets/2d6bb95a-1edc-4c42-bccc-0ff6d1fe3860)
 
 
 ## **MODUL 1: FONDASI TEORI DAN KONSEP**
