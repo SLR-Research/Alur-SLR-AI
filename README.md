@@ -382,6 +382,7 @@ Tolong analisis:
 5. Methodology quality indicators
 6. Final recommendation dengan detailed justification
 ```
+[LEBIH LENGKAP - CEK Modul 5: Title/Abstract Screening dengan Claude](./modul_5.md)
 
 ---
 
