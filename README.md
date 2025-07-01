@@ -1,6 +1,6 @@
 # Alur Pelatihan SLR dengan Gen AI untuk Artikel Jurnal Bereputasi - Panduan Spesifik
 
-inkscape --export-type=png --export-dpi=300 slr-workflow.svg
+![SLR Workflow](./slr-workflow.png)
 ## **MODUL 1: FONDASI TEORI DAN KONSEP**
 
 ### Sesi 1: Pengenalan SLR
