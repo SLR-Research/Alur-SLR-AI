@@ -146,6 +146,7 @@ Tolong analisis:
 5. Alternative search approaches
 6. Recommendation untuk pilot testing
 ```
+- [Modul 3: Perumusan Research Question dengan PICO](./modul_3.md)
 
 ---
 
