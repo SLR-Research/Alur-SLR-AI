@@ -1,5 +1,8 @@
 # Alur Pelatihan SLR dengan Gen AI untuk Artikel Jurnal Bereputasi - Panduan Spesifik
 
+![Uploading slr_workflow.png…]()
+
+
 ## **MODUL 1: FONDASI TEORI DAN KONSEP**
 
 ### Sesi 1: Pengenalan SLR
@@ -724,7 +727,7 @@ REVIEW DETAILS:
 - Results: [key findings]
 - Conclusions: [main conclusions]
 
-FORMAT ABSTRACT (250 words):
+FORMAT ABSTRACT (150 words):
 1. Background & Objective
 2. Methods (search strategy, inclusion criteria, analysis)
 3. Results (number of studies, key findings)
@@ -949,40 +952,3 @@ Prepare responses yang constructive dan evidence-based.
 
 ---
 
-## **QUALITY ASSURANCE CHECKPOINTS**
-
-### **Checkpoint 1: Research Question Quality**
-- PICO framework completeness
-- FINER criteria compliance
-- Alignment dengan methodology
-
-### **Checkpoint 2: Search Strategy Validation**
-- Keyword comprehensiveness
-- Boolean logic accuracy
-- Scopus syntax correctness
-- Reproducibility test
-
-### **Checkpoint 3: Screening Consistency**
-- Inter-rater reliability (jika applicable)
-- Decision documentation
-- Bias minimization
-
-### **Checkpoint 4: Data Extraction Accuracy**
-- Double extraction verification
-- Missing data identification
-- Quality check procedures
-
-### **Checkpoint 5: Manuscript Quality**
-- PRISMA checklist compliance
-- Journal requirement adherence
-- Academic writing standards
-
----
-
-## **CRITICAL SUCCESS FACTORS**
-
-1. **Always verify Gen AI outputs** - AI adalah assistant, bukan replacement untuk critical thinking
-2. **Maintain systematic approach** - Follow SLR methodology rigorously
-3. **Document all decisions** - Create audit trail untuk transparency
-4. **Quality over quantity** - Better fewer high-quality studies than many poor ones
-5. **Iterative refinement** - Use Gen AI untuk continuous improvement of drafts
