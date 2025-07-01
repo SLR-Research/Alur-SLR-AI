@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Arrow marker definition - moved to top -->
+ <defs>
+  <marker id="arrowhead" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5">
+   <polygon points="0 0 10 3.5 0 7" fill="#1e293b"/>
+  </marker>
+ </defs>
+ <!-- Background -->
+ <rect width="1200" height="1600" fill="#f8fafc"/>
+ <!-- Title -->
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="40.127277" fill="#1e293b" font-family="Arial, sans-serif" font-size="24.267px" font-weight="bold" text-anchor="middle">SLR Workflow dengan Claude untuk Artikel Jurnal Bereputasi</text>
+ <!-- Phase 1: Preparation -->
+ <rect x="50.003" y="80.78" width="1109.4" height="121.65" rx="10" ry="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="105.85152" fill="#0284c7" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 1: PREPARATION AND PLANNING</text>
+ <!-- Box 1: Research Question -->
+ <rect x="100.43" y="131.47" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#0284c7" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="201.80226" y="151.35291" fill="#1e293b" font-size="12.134px" font-weight="bold">PICO Framework</text>
+  <text transform="scale(.99744 1.0026)" x="201.80226" y="166.52005" fill="#64748b" font-size="10.111px">dengan Claude</text>
+  <text transform="scale(.99744 1.0026)" x="201.80226" y="181.68718" fill="#64748b" font-size="10.111px">Research Question</text>
+  <!-- Box 2: Search Strategy -->
+ </g>
+ <rect x="352.57" y="131.47" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#0284c7" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="454.5878" y="151.35291" fill="#1e293b" font-size="12.134px" font-weight="bold">Search Strategy</text>
+  <text transform="scale(.99744 1.0026)" x="454.5878" y="166.52005" fill="#64748b" font-size="10.111px">Keywords and Boolean</text>
+  <text transform="scale(.99744 1.0026)" x="454.5878" y="181.68718" fill="#64748b" font-size="10.111px">dengan Claude</text>
+  <!-- Box 3: Criteria -->
+ </g>
+ <rect x="604.71" y="131.47" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#0284c7" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="707.37329" y="151.35291" fill="#1e293b" font-size="12.134px" font-weight="bold">Inclusion/Exclusion</text>
+  <text transform="scale(.99744 1.0026)" x="707.37329" y="166.52005" fill="#64748b" font-size="10.111px">Criteria Development</text>
+  <text transform="scale(.99744 1.0026)" x="707.37329" y="181.68718" fill="#64748b" font-size="10.111px">dengan Claude</text>
+  <!-- Box 4: Quality Tools -->
+ </g>
+ <rect x="856.84" y="131.47" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#0284c7" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="960.15887" y="151.35291" fill="#1e293b" font-size="12.134px" font-weight="bold">Quality Assessment</text>
+  <text transform="scale(.99744 1.0026)" x="960.15887" y="166.52005" fill="#64748b" font-size="10.111px">Tools Selection</text>
+  <text transform="scale(.99744 1.0026)" x="960.15887" y="181.68718" fill="#64748b" font-size="10.111px">dengan Claude</text>
+  <!-- Arrow down -->
+ </g>
+ <path d="m604.71 212.57v30.412" marker-end="url(#arrowhead)" stroke="#1e293b" stroke-width="3"/>
+ <!-- Phase 2: Data Mining -->
+ <rect x="50.003" y="253.12" width="1109.4" height="182.47" rx="10" ry="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="277.74567" fill="#d97706" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 2: DATA MINING AND EXPORT</text>
+ <!-- Scopus Search -->
+ <rect x="201.29" y="303.8" width="252.14" height="81.099" rx="5" ry="5" fill="#fff" stroke="#d97706" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="328.19504" y="328.3028" fill="#1e293b" font-family="Arial, sans-serif" font-size="14.156px" font-weight="bold" text-anchor="middle">SCOPUS SEARCH</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="11.123px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="328.19504" y="348.52563">Execute search string</text>
+  <text transform="scale(.99744 1.0026)" x="328.19504" y="363.69275">Apply filters</text>
+  <text transform="scale(.99744 1.0026)" x="328.19504" y="378.85989">Analyze results with Claude</text>
+  <!-- Export Data -->
+ </g>
+ <rect x="503.85" y="303.8" width="252.14" height="81.099" rx="5" ry="5" fill="#fff" stroke="#d97706" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="631.53766" y="328.3028" fill="#1e293b" font-family="Arial, sans-serif" font-size="14.156px" font-weight="bold" text-anchor="middle">EXPORT DATA</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="11.123px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="631.53766" y="348.52563">CSV format untuk Claude</text>
+  <text transform="scale(.99744 1.0026)" x="631.53766" y="363.69275">Include: Title, Abstract, Keywords</text>
+  <text transform="scale(.99744 1.0026)" x="631.53766" y="378.85989">Quality check dengan Claude</text>
+  <!-- Arrow from Scopus to Export -->
+ </g>
+ <path d="m453.42 344.35h50.428" marker-end="url(#arrowhead)" stroke="#1e293b" stroke-width="2"/>
+ <!-- Results Box -->
+ <rect x="806.42" y="303.8" width="201.71" height="81.099" rx="5" ry="5" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="909.60175" y="328.3028" fill="#16a34a" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">DATASET READY</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="909.60175" y="348.52563">Title + Abstract</text>
+  <text transform="scale(.99744 1.0026)" x="909.60175" y="363.69275">untuk Screening</text>
+  <text transform="scale(.99744 1.0026)" x="909.60175" y="378.85989">[X] articles exported</text>
+  <!-- Arrow from Export to Results -->
+ </g>
+ <path d="m755.99 344.35h50.428" marker-end="url(#arrowhead)" stroke="#1e293b" stroke-width="2"/>
+ <!-- Arrow down -->
+ <path d="m604.71 445.73v30.412" marker-end="url(#arrowhead)" stroke="#1e293b" stroke-width="3"/>
+ <!-- Phase 3: Title/Abstract Screening -->
+ <rect x="50.003" y="486.28" width="1109.4" height="182.47" rx="10" ry="10" fill="#f3e8ff" stroke="#7c3aed" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="510.30838" fill="#7c3aed" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 3: TITLE/ABSTRACT SCREENING</text>
+ <!-- Batch Processing -->
+ <rect x="150.86" y="536.96" width="201.71" height="81.099" rx="5" ry="5" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="252.35936" y="560.86548" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">BATCH PROCESSING</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="581.08832">Claude screening</text>
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="596.25543">10 articles per batch</text>
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="611.42261">Include/Exclude/Uncertain</text>
+  <!-- Decision Tracking -->
+ </g>
+ <rect x="403" y="536.96" width="201.71" height="81.099" rx="5" ry="5" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="505.1449" y="560.86548" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">DECISION TRACKING</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="581.08832">Spreadsheet logging</text>
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="596.25543">Exclusion reasons</text>
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="611.42261">Progress monitoring</text>
+  <!-- Results Analysis -->
+ </g>
+ <rect x="655.13" y="536.96" width="201.71" height="81.099" rx="5" ry="5" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="757.93042" y="560.86548" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">RESULTS ANALYSIS</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="581.08832">Claude pattern analysis</text>
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="596.25543">Criteria validation</text>
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="611.42261">Quality assessment</text>
+  <!-- Final List -->
+ </g>
+ <rect x="907.27" y="536.96" width="151.28" height="81.099" rx="5" ry="5" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="985.43738" y="560.86548" fill="#16a34a" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">ELIGIBLE LIST</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="985.43738" y="581.08832">For full-text</text>
+  <text transform="scale(.99744 1.0026)" x="985.43738" y="596.25543">acquisition</text>
+  <text transform="scale(.99744 1.0026)" x="985.43738" y="611.42261">[Y] articles</text>
+  <!-- Arrows -->
+ </g>
+ <g stroke="#1e293b">
+  <g stroke-width="2">
+   <path d="m352.57 577.51h50.428" marker-end="url(#arrowhead)"/>
+   <path d="m604.71 577.51h50.428" marker-end="url(#arrowhead)"/>
+   <path d="m856.84 577.51h50.428" marker-end="url(#arrowhead)"/>
+   <!-- Arrow down -->
+  </g>
+  <path d="m604.71 678.89v30.412" marker-end="url(#arrowhead)" stroke-width="3"/>
+  <!-- Phase 4: Full-text -->
+ </g>
+ <rect x="50.003" y="719.44" width="1109.4" height="182.47" rx="10" ry="10" fill="#fdf2f8" stroke="#ec4899" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="742.87103" fill="#ec4899" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 4: FULL-TEXT ACQUISITION AND SCREENING</text>
+ <!-- Acquisition -->
+ <rect x="150.86" y="770.12" width="201.71" height="81.099" rx="5" ry="5" fill="#fff" stroke="#ec4899" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="252.35936" y="793.42816" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">ACQUISITION</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="813.651">Institutional access</text>
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="828.81812">Open access check</text>
+  <text transform="scale(.99744 1.0026)" x="252.35936" y="843.98529">Author requests</text>
+  <!-- Full-text Screening -->
+ </g>
+ <rect x="403" y="770.12" width="201.71" height="81.099" rx="5" ry="5" fill="#fff" stroke="#ec4899" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="505.1449" y="793.42816" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">DETAILED SCREENING</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="813.651">Claude full-text analysis</text>
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="828.81812">Methodology check</text>
+  <text transform="scale(.99744 1.0026)" x="505.1449" y="843.98529">Final inclusion decision</text>
+  <!-- Final Studies -->
+ </g>
+ <rect x="655.13" y="770.12" width="201.71" height="81.099" rx="5" ry="5" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="757.93042" y="793.42816" fill="#16a34a" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">INCLUDED STUDIES</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="813.651">Final study list</text>
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="828.81812">Ready for extraction</text>
+  <text transform="scale(.99744 1.0026)" x="757.93042" y="843.98529">[Z] final studies</text>
+  <!-- Arrows -->
+ </g>
+ <g stroke="#1e293b">
+  <path d="m352.57 810.67h50.428" marker-end="url(#arrowhead)" stroke-width="2"/>
+  <path d="m604.71 810.67h50.428" marker-end="url(#arrowhead)" stroke-width="2"/>
+  <!-- Arrow down -->
+  <path d="m604.71 912.05v30.412" marker-end="url(#arrowhead)" stroke-width="3"/>
+  <!-- Phase 5: Analysis -->
+ </g>
+ <rect x="50.003" y="952.6" width="1109.4" height="223.02" rx="10" ry="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="975.43372" fill="#0369a1" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 5: DATA EXTRACTION AND ANALYSIS</text>
+ <!-- Data Extraction -->
+ <rect x="100.43" y="1003.3" width="181.54" height="81.099" rx="5" ry="5" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="191.69084" y="1025.9908" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">DATA EXTRACTION</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="191.69084" y="1046.2137">Claude-assisted</text>
+  <text transform="scale(.99744 1.0026)" x="191.69084" y="1061.3809">Systematic extraction</text>
+  <text transform="scale(.99744 1.0026)" x="191.69084" y="1076.548">Database building</text>
+  <!-- Quality Assessment -->
+ </g>
+ <rect x="322.31" y="1003.3" width="181.54" height="81.099" rx="5" ry="5" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="414.14209" y="1025.9908" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">QUALITY APPRAISAL</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="414.14209" y="1046.2137">CASP/JBI tools</text>
+  <text transform="scale(.99744 1.0026)" x="414.14209" y="1061.3809">Claude evaluation</text>
+  <text transform="scale(.99744 1.0026)" x="414.14209" y="1076.548">Risk of bias</text>
+  <!-- Data Analysis -->
+ </g>
+ <rect x="544.19" y="1003.3" width="181.54" height="81.099" rx="5" ry="5" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="636.59338" y="1025.9908" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">DATA ANALYSIS</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="636.59338" y="1046.2137">Thematic analysis</text>
+  <text transform="scale(.99744 1.0026)" x="636.59338" y="1061.3809">Pattern identification</text>
+  <text transform="scale(.99744 1.0026)" x="636.59338" y="1076.548">Evidence synthesis</text>
+  <!-- Synthesis -->
+ </g>
+ <rect x="766.07" y="1003.3" width="181.54" height="81.099" rx="5" ry="5" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="859.04462" y="1025.9908" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">SYNTHESIS</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="859.04462" y="1046.2137">Meta-analysis</text>
+  <text transform="scale(.99744 1.0026)" x="859.04462" y="1061.3809">(if applicable)</text>
+  <text transform="scale(.99744 1.0026)" x="859.04462" y="1076.548">GRADE assessment</text>
+  <!-- Results -->
+ </g>
+ <rect x="987.96" y="1003.3" width="151.28" height="81.099" rx="5" ry="5" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="1066.3287" y="1025.9908" fill="#16a34a" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">FINDINGS</text>
+ <g fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="1066.3287" y="1046.2137">Key results</text>
+  <text transform="scale(.99744 1.0026)" x="1066.3287" y="1061.3809">Evidence quality</text>
+  <text transform="scale(.99744 1.0026)" x="1066.3287" y="1076.548">Conclusions</text>
+  <!-- Arrows -->
+ </g>
+ <g stroke="#1e293b" stroke-width="2">
+  <path d="m281.97 1043.8h40.342" marker-end="url(#arrowhead)"/>
+  <path d="m503.85 1043.8h40.342" marker-end="url(#arrowhead)"/>
+  <path d="m725.73 1043.8h40.342" marker-end="url(#arrowhead)"/>
+  <path d="m947.61 1043.8h40.342" marker-end="url(#arrowhead)"/>
+  <!-- Tables and Figures -->
+ </g>
+ <rect x="302.14" y="1114.8" width="605.13" height="50.687" rx="5" ry="5" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="1137.2164" fill="#1e293b" font-family="Arial, sans-serif" font-size="12.134px" font-weight="bold" text-anchor="middle">TABLES AND FIGURES CREATION dengan Claude</text>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="1152.3837" fill="#64748b" font-family="Arial, sans-serif" font-size="10.111px" text-anchor="middle">PRISMA Flow Diagram, Study Characteristics Table, Results Summary</text>
+ <!-- Arrow down -->
+ <path d="m604.71 1185.8v30.412" marker-end="url(#arrowhead)" stroke="#1e293b" stroke-width="3"/>
+ <!-- Phase 6: Writing -->
+ <rect x="50.003" y="1226.3" width="1109.4" height="223.02" rx="10" ry="10" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+ <text transform="scale(.99744 1.0026)" x="606.25909" y="1248.4421" fill="#475569" font-family="Arial, sans-serif" font-size="18.201px" font-weight="bold" text-anchor="middle">PHASE 6: MANUSCRIPT WRITING AND SUBMISSION</text>
+ <!-- Writing Sections -->
+ <rect x="100.43" y="1277" width="151.28" height="70.962" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="176.52371" y="1298.9993" fill="#1e293b" font-size="11.123px" font-weight="bold">ABSTRACT</text>
+  <text transform="scale(.99744 1.0026)" x="176.52371" y="1319.222" fill="#64748b" font-size="9.1003px">Claude drafting</text>
+  <text transform="scale(.99744 1.0026)" x="176.52371" y="1334.3892" fill="#64748b" font-size="9.1003px">250 words structured</text>
+ </g>
+ <rect x="271.88" y="1277" width="151.28" height="70.962" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="348.41788" y="1298.9993" fill="#1e293b" font-size="11.123px" font-weight="bold">INTRODUCTION</text>
+  <text transform="scale(.99744 1.0026)" x="348.41788" y="1319.222" fill="#64748b" font-size="9.1003px">Background</text>
+  <text transform="scale(.99744 1.0026)" x="348.41788" y="1334.3892" fill="#64748b" font-size="9.1003px">Rationale and Objectives</text>
+ </g>
+ <rect x="443.34" y="1277" width="151.28" height="70.962" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="520.31201" y="1298.9993" fill="#1e293b" font-size="11.123px" font-weight="bold">METHODS</text>
+  <text transform="scale(.99744 1.0026)" x="520.31201" y="1319.222" fill="#64748b" font-size="9.1003px">PRISMA compliant</text>
+  <text transform="scale(.99744 1.0026)" x="520.31201" y="1334.3892" fill="#64748b" font-size="9.1003px">Transparent reporting</text>
+ </g>
+ <rect x="614.79" y="1277" width="151.28" height="70.962" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="692.20618" y="1298.9993" fill="#1e293b" font-size="11.123px" font-weight="bold">RESULTS</text>
+  <text transform="scale(.99744 1.0026)" x="692.20618" y="1319.222" fill="#64748b" font-size="9.1003px">Objective presentation</text>
+  <text transform="scale(.99744 1.0026)" x="692.20618" y="1334.3892" fill="#64748b" font-size="9.1003px">Tables and figures</text>
+ </g>
+ <rect x="786.25" y="1277" width="151.28" height="70.962" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="864.10034" y="1298.9993" fill="#1e293b" font-size="11.123px" font-weight="bold">DISCUSSION</text>
+  <text transform="scale(.99744 1.0026)" x="864.10034" y="1319.222" fill="#64748b" font-size="9.1003px">Critical analysis</text>
+  <text transform="scale(.99744 1.0026)" x="864.10034" y="1334.3892" fill="#64748b" font-size="9.1003px">Implications</text>
+  <!-- Quality Check -->
+ </g>
+ <rect x="201.29" y="1368.2" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="302.91647" y="1390.002" fill="#1e293b" font-size="12.134px" font-weight="bold">QUALITY REVIEW</text>
+  <text transform="scale(.99744 1.0026)" x="302.91647" y="1410.2249" fill="#64748b" font-size="10.111px">Claude manuscript review</text>
+  <text transform="scale(.99744 1.0026)" x="302.91647" y="1423.3698" fill="#64748b" font-size="10.111px">PRISMA checklist</text>
+  <!-- Submission -->
+ </g>
+ <rect x="453.42" y="1368.2" width="201.71" height="60.824" rx="5" ry="5" fill="#fff" stroke="#475569" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="555.70203" y="1390.002" fill="#1e293b" font-size="12.134px" font-weight="bold">SUBMISSION</text>
+  <text transform="scale(.99744 1.0026)" x="555.70203" y="1410.2249" fill="#64748b" font-size="10.111px">Journal selection</text>
+  <text transform="scale(.99744 1.0026)" x="555.70203" y="1423.3698" fill="#64748b" font-size="10.111px">Cover letter</text>
+  <!-- Publication -->
+ </g>
+ <rect x="705.56" y="1368.2" width="201.71" height="60.824" rx="5" ry="5" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="808.48755" y="1390.002" fill="#16a34a" font-size="12.134px" font-weight="bold">PUBLICATION</text>
+  <text transform="scale(.99744 1.0026)" x="808.48755" y="1410.2249" fill="#64748b" font-size="10.111px">Peer review response</text>
+  <text transform="scale(.99744 1.0026)" x="808.48755" y="1423.3698" fill="#64748b" font-size="10.111px">Final publication</text>
+  <!-- Final arrows -->
+ </g>
+ <g stroke-width="2">
+  <path d="m403 1398.6h50.428" marker-end="url(#arrowhead)" stroke="#1e293b"/>
+  <path d="m655.13 1398.6h50.428" marker-end="url(#arrowhead)" stroke="#1e293b"/>
+  <!-- AI Integration Note -->
+  <rect x="100.43" y="1469.6" width="1008.6" height="81.099" rx="10" ry="10" fill="#fef3c7" stroke="#d97706"/>
+ </g>
+ <g font-family="Arial, sans-serif" text-anchor="middle">
+  <text transform="scale(.99744 1.0026)" x="606.25909" y="1491.1162" fill="#d97706" font-size="16.178px" font-weight="bold">CLAUDE AI INTEGRATION THROUGHOUT</text>
+  <text transform="scale(.99744 1.0026)" x="606.25909" y="1516.3948" fill="#92400e" font-size="12.134px">Research Question Development, Search Strategy, Screening Assistance, Data Extraction</text>
+  <text transform="scale(.99744 1.0026)" x="606.25909" y="1536.6177" fill="#92400e" font-size="12.134px">Quality Assessment, Analysis and Synthesis, Manuscript Writing, Review and Revision</text>
+  <!-- Timeline on the side -->
+  <!-- Timeline markers -->
+ </g>
+</svg>
