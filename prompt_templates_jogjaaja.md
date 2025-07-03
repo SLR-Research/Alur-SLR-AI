@@ -2,7 +2,7 @@
 
 ## **BAGIAN 1: TAHAP IDENTIFICATION - SEARCH STRATEGY**
 
-### **Enhanced Prompt untuk Paragraf Identification (Bagian 1)**
+### **Prompt untuk Paragraf Identification (Bagian 1)**
 
 ```
 Saya sedang menulis artikel Systematic Literature Review dengan topik [TOPIK ANDA]. 
@@ -26,7 +26,7 @@ Tolong tulis PARAGRAF PERTAMA untuk bagian Methods - Identification yang:
 Berikan output yang dapat langsung digunakan untuk artikel, dengan proper academic tone.
 ```
 
-### **Enhanced Prompt untuk Paragraf Identification (Bagian 2)**
+### **Prompt untuk Paragraf Identification (Bagian 2)**
 
 ```
 Lanjutkan dengan PARAGRAF KEDUA untuk bagian Methods - Identification berdasarkan data:
@@ -52,9 +52,9 @@ Format harus sesuai standar PRISMA dan dapat dipublikasi di jurnal Q1.
 
 ---
 
-## **BAGIAN 2: TAHAP SCREENING - ENHANCED CRITERIA DEVELOPMENT**
+## **BAGIAN 2: TAHAP SCREENING - CRITERIA DEVELOPMENT**
 
-### **Enhanced Prompt untuk Inclusion Criteria Development**
+### **Prompt untuk Inclusion Criteria Development**
 
 ```
 Berdasarkan framework PICO dan research question saya, bantu develop INCLUSION CRITERIA yang comprehensive:
@@ -108,7 +108,7 @@ Untuk setiap kriteria:
 Output format harus ready untuk inclusion dalam Methods section artikel.
 ```
 
-### **Enhanced Prompt untuk Exclusion Criteria Development**
+### **Prompt untuk Exclusion Criteria Development**
 
 ```
 Berdasarkan inclusion criteria yang telah dibuat, develop COMPREHENSIVE EXCLUSION CRITERIA:
@@ -157,7 +157,7 @@ Untuk setiap exclusion:
 Format untuk Methods section yang PRISMA-compliant.
 ```
 
-### **Enhanced Prompt untuk Screening Results Paragraph**
+### **Prompt untuk Screening Results Paragraph**
 
 ```
 Berdasarkan hasil screening saya, tulis comprehensive paragraph untuk Methods section:
@@ -203,9 +203,9 @@ Output harus ready untuk direct inclusion dalam manuscript.
 
 ---
 
-## **BAGIAN 3: TAHAP ELIGIBILITY - ENHANCED QUALITY ASSESSMENT**
+## **BAGIAN 3: TAHAP ELIGIBILITY - QUALITY ASSESSMENT**
 
-### **Enhanced Prompt untuk Eligibility Assessment Framework**
+### **Prompt untuk Eligibility Assessment Framework**
 
 ```
 Saya perlu develop comprehensive framework untuk full-text eligibility assessment. Bantu create detailed approach:
@@ -250,7 +250,7 @@ Create assessment form/checklist dengan:
 Output harus operationally specific dan dapat digunakan langsung untuk assessment process.
 ```
 
-### **Enhanced Prompt untuk Eligibility Results Paragraph**
+### **Prompt untuk Eligibility Results Paragraph**
 
 ```
 Berdasarkan hasil full-text eligibility assessment, tulis Methods section paragraph:
@@ -302,9 +302,9 @@ Include reference ke "Table X shows detailed quality assessment results" dan "Fi
 
 ---
 
-## **BAGIAN 4: RESEARCH QUESTION DEVELOPMENT - ENHANCED AI WORKFLOW**
+## **BAGIAN 4: RESEARCH QUESTION DEVELOPMENT - AI WORKFLOW**
 
-### **Enhanced Prompt untuk RQ Development dari Scopus Data**
+### **Prompt untuk RQ Development dari Scopus Data**
 
 ```
 Saya telah mengumpulkan dataset artikel dari Scopus untuk systematic literature review. Berperan sebagai senior researcher expert di bidang [BIDANG SPESIFIK], analisis dataset dan develop research questions.
@@ -359,7 +359,7 @@ Untuk setiap RQ provide:
 Format output untuk direct integration ke research proposal.
 ```
 
-### **Enhanced Prompt untuk Data Extraction Framework Development**
+### **Prompt untuk Data Extraction Framework Development**
 
 ```
 Berdasarkan finalized research questions, develop comprehensive data extraction framework:
@@ -420,9 +420,9 @@ Output harus operational dan ready untuk systematic data extraction process.
 
 ---
 
-## **BAGIAN 5: TECHNICAL WRITING - ENHANCED AI-ASSISTED WRITING**
+## **BAGIAN 5: TECHNICAL WRITING - AI-ASSISTED WRITING**
 
-### **Enhanced Prompt untuk Introduction Writing**
+### **Prompt untuk Introduction Writing**
 
 ```
 Tulis comprehensive Introduction section untuk systematic literature review artikel:
@@ -484,7 +484,7 @@ REQUIREMENTS:
 Provide complete, publication-ready Introduction section.
 ```
 
-### **Enhanced Prompt untuk Results Section Writing**
+### **Prompt untuk Results Section Writing**
 
 ```
 Tulis comprehensive Results section berdasarkan systematic review findings:
@@ -547,7 +547,7 @@ Include suggestions untuk:
 Provide publication-ready Results section dengan professional academic style.
 ```
 
-### **Enhanced Prompt untuk Discussion & Conclusion Writing**
+### **Prompt untuk Discussion & Conclusion Writing**
 
 ```
 Tulis comprehensive Discussion dan Conclusion sections:
@@ -621,9 +621,9 @@ Provide complete, publication-ready Discussion dan Conclusion sections.
 
 ---
 
-## **BAGIAN 6: BIBLIOMETRIC ANALYSIS - ENHANCED WORKFLOW**
+## **BAGIAN 6: BIBLIOMETRIC ANALYSIS - WORKFLOW**
 
-### **Enhanced Prompt untuk Bibliometric Analysis Interpretation**
+### **Prompt untuk Bibliometric Analysis Interpretation**
 
 ```
 Berdasarkan hasil analisis bibliometric menggunakan VOSviewer, bantu interpret findings untuk artikel:
@@ -690,9 +690,9 @@ Provide analysis yang bridges quantitative bibliometric data dengan meaningful a
 
 ---
 
-## **BAGIAN 7: QUALITY ASSURANCE - ENHANCED VALIDATION PROMPTS**
+## **BAGIAN 7: QUALITY ASSURANCE - VALIDATION PROMPTS**
 
-### **Enhanced Prompt untuk Overall Manuscript Review**
+### **Prompt untuk Overall Manuscript Review**
 
 ```
 Conduct comprehensive quality review untuk systematic literature review manuscript:
@@ -765,4 +765,4 @@ PROVIDE DETAILED FEEDBACK:
 Rate overall manuscript quality (1-10) dan provide specific action items untuk improvement.
 ```
 
-Ini adalah enhanced prompt templates yang terintegrasi dengan form PAPERCAMP SLNA dan memberikan guidance yang lebih detail dan praktis untuk setiap tahap systematic literature review dengan AI assistance.
+Ini adalah prompt templates yang terintegrasi dengan form PAPERCAMP SLNA dan memberikan guidance yang lebih detail dan praktis untuk setiap tahap systematic literature review dengan AI assistance.
