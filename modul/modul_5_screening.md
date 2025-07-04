@@ -1,10 +1,10 @@
-# Modul 5: Title/Abstract Screening dengan Claude
+# Modul 5: Title/Abstract Screening dengan GenAI
 
 ---
 
 ## **LANGKAH 1: SETUP INCLUSION/EXCLUSION CRITERIA**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan PICO framework dan research question saya:
 
@@ -34,11 +34,11 @@ EXCLUSION CRITERIA:
 Buat criteria yang clear, measurable, dan can be applied consistently.
 ```
 
-**Peserta review dan finalize** criteria sebelum mulai screening.
+**Review dan finalize** criteria sebelum mulai screening.
 
 ---
 
-## **LANGKAH 2: BATCH SCREENING DENGAN CLAUDE**
+## **LANGKAH 2: BATCH SCREENING DENGAN GenAI**
 
 ### **Setup Screening Process:**
 1. **Bagi CSV file** menjadi batch 10-15 artikel per batch
@@ -54,13 +54,13 @@ Buat criteria yang clear, measurable, dan can be applied consistently.
 Saya akan melakukan title/abstract screening untuk systematic review.
 
 INCLUSION CRITERIA:
-[paste criteria yang sudah dibuat]
+[Gunakan inclusion criteria diatas/paste criteria yang sudah dibuat]
 
 EXCLUSION CRITERIA:
-[paste criteria yang sudah dibuat]
+[Gunakan exclusion criteria diatas/paste criteria yang sudah dibuat]
 
-DATA UNTUK SCREENING (Batch [number]):
-[copy-paste 10-15 artikel dalam format:]
+DATA UNTUK SCREENING:
+[Gunakan dataset csv hasil tambang dari scopus]
 1. Title: [title] | Abstract: [abstract] | Keywords: [keywords]
 2. Title: [title] | Abstract: [abstract] | Keywords: [keywords]
 [dst...]
@@ -76,13 +76,13 @@ Format output:
 [dst...]
 ```
 
-**Peserta process batch by batch** dan document decisions.
+**Process batch by batch** dan document decisions apabila data terlalu besar.
 
 ---
 
 ## **LANGKAH 3: REVIEW HASIL DAN PREPARE FULL-TEXT LIST**
 
-### **Analyze Screening Results dengan Claude:**
+### **Analyze Screening Results dengan GenAI:**
 ```
 Hasil title/abstract screening saya:
 
@@ -112,7 +112,7 @@ Tolong bantu:
 Berikan recommendations untuk next steps.
 ```
 
-**Peserta finalize** included articles list dan prepare untuk full-text acquisition.
+**Finalize** included articles list dan prepare untuk full-text acquisition.
 
 ---
 
@@ -159,41 +159,3 @@ ESTIMATED FULL-TEXT WORKLOAD: [number] articles
 ```
 
 ---
-
-## **TROUBLESHOOTING**
-
-**Problem 1: Claude responses tidak konsisten**
-- Break down ke batch yang lebih kecil (5-10 articles)
-- Repeat criteria di setiap prompt
-- Use same format consistently
-
-**Problem 2: Terlalu banyak UNCERTAIN cases**
-- Refine inclusion/exclusion criteria
-- Provide more specific examples
-- Seek second reviewer untuk ambiguous cases
-
-**Problem 3: Screening terlalu restrictive**
-- Review criteria dengan supervisor
-- Consider broader inclusion
-- Check if criteria align dengan research question
-
-**Problem 4: Missing abstracts**
-- Include in screening dengan note "No abstract"
-- Flag for closer full-text review
-- Consider as uncertain case
-
-**Problem 5: Large dataset (>500 articles)**
-- Work in smaller daily batches
-- Use multiple screening sessions
-- Maintain consistent criteria across sessions
-
----
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Finalized inclusion/exclusion criteria** dengan rationale
-2. **Complete screening log** dengan decisions dan reasons
-3. **Included articles list** untuk full-text acquisition
-4. **Screening statistics** dan quality metrics
-5. **PRISMA flow data** untuk methodology reporting
