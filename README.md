@@ -36,21 +36,21 @@
 - [Modul 4: Data mining Scopus](./modul/modul_4_data_mining.md)
 
 ## **MODUL 5: SCREENING DAN SELECTION DENGAN Gen AI**
-- [Modul 5: Title/Abstract Screening dengan GenAI](.modul/modul_5_screening.md)
+- [Modul 5: Title/Abstract Screening dengan GenAI](./modul_5_screening.md)
 
 ## **MODUL 6: FULL TEXT Full-text Acquisition dan Screening**
-- [Modul 6: FULL TEXT Full-text Acquisition](.modul/modul_6_fulltext.md)
+- [Modul 6: FULL TEXT Full-text Acquisition](./modul/modul_6_fulltext.md)
 
 ## **MODUL 7: DATA EXTRACTION DAN DATABASE BUILDING**
-- [Modul 7: Data Extraction dan Quality Assessment](.modul/modul_7_extraction.md)
+- [Modul 7: Data Extraction dan Quality Assessment](./modul/modul_7_extraction.md)
 
 ## **MODUL 8: DATA ANALYSIS DAN SYNTHESIS DENGAN Gen AI**
-- [Modul 8: Data Analysis dan Synthesis](.modul/modul_8_analysis.md)
+- [Modul 8: Data Analysis dan Synthesis](./modul/modul_8_analysis.md)
 
-- [Modul 8-B: Data Analysis dan Synthesis Bibliometric](.modul/modul_bibliometric.md)
+- [Modul 8-B: Data Analysis dan Synthesis Bibliometric](./modul/modul_bibliometric.md)
 
 ## **MODUL 9: Manuscript Writing dengan GenAI**
-- [Modul 9: Manuscript Writing](.modul/modul_9_writing_new.md)
+- [Modul 9: Manuscript Writing](./modul/modul_9_writing_new.md)
   
 
 ---
