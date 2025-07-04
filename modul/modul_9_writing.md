@@ -1,10 +1,10 @@
-# Modul 9: Manuscript Writing dengan Claude
+# Modul 9: Manuscript Writing dengan GenAI
 
 ---
 
 ## **LANGKAH 1: METHODS WRITING**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan methodology yang telah dilakukan:
 
@@ -47,13 +47,13 @@ STRUCTURE:
 Ensure transparency dan reproducibility.
 ```
 
-**Peserta create** methods section yang rigorous dan transparent.
+**Create** methods section yang rigorous dan transparent.
 
 ---
 
 ## **LANGKAH 2: RESULTS WRITING (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan analysis results untuk SLNA:
 
@@ -104,13 +104,13 @@ STRUCTURE:
 Present results objectively dengan integration of both systematic dan bibliometric analyses.
 ```
 
-**Peserta develop** results section yang objective dan comprehensive.
+**Develop** results section yang objective dan comprehensive.
 
 ---
 
 ## **LANGKAH 3: DISCUSSION WRITING (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan integrated findings untuk SLNA:
 
@@ -165,13 +165,13 @@ STRUCTURE:
 Maintain balanced perspective dengan emphasis pada SLNA contributions.
 ```
 
-**Peserta create** discussion yang balanced dan insightful.
+**Create** discussion yang balanced dan insightful.
 
 ---
 
 ## **LANGKAH 4: INTRODUCTION WRITING (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan research area dan complete SLNA findings:
 
@@ -216,13 +216,13 @@ STRUCTURE:
 Tulis introduction yang engaging dan justify SLNA approach dengan knowledge dari findings.
 ```
 
-**Peserta develop** introduction yang compelling dengan clear rationale.
+**Develop** introduction yang compelling dengan clear rationale.
 
 ---
 
 ## **LANGKAH 5: CONCLUSIONS WRITING (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan complete SLNA discussion dan findings:
 
@@ -259,13 +259,13 @@ STRUCTURE:
 Tulis conclusions yang comprehensive, highlighting unique SLNA contributions.
 ```
 
-**Peserta finalize** conclusions yang strong dan actionable.
+**Finalize** conclusions yang strong dan actionable.
 
 ---
 
 ## **LANGKAH 6: REFERENCES FORMATTING**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Saya memiliki complete manuscript dan need to format references:
 
@@ -303,13 +303,13 @@ Tolong bantu saya:
 Berikan properly formatted reference list dan in-text citation corrections.
 ```
 
-**Peserta finalize** references yang properly formatted.
+**Finalize** references yang properly formatted.
 
 ---
 
 ## **LANGKAH 7: ABSTRACT WRITING (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan complete SLNA manuscript:
 
@@ -357,13 +357,13 @@ FORMAT ABSTRACT:
 Tulis abstract yang highlight SLNA approach uniqueness dan comprehensive findings.
 ```
 
-**Peserta create** abstract yang comprehensive dan engaging.
+**Create** abstract yang comprehensive dan engaging.
 
 ---
 
 ## **LANGKAH 8: TITLE CREATION (SLNA)**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan complete SLNA manuscript dan abstract:
 
@@ -412,7 +412,7 @@ FINAL RECOMMENDATION:
 Berikan title yang clearly indicate SLNA approach dan methodology.
 ```
 
-**Peserta finalize** title yang compelling dan descriptive.
+**Finalize** title yang compelling dan descriptive.
 
 ---
 
@@ -505,16 +505,3 @@ NEXT STEPS:
 - Strengthen connection to discussion
 
 ---
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Complete manuscript** dengan optimal writing sequence
-2. **PRISMA-compliant Methods** section
-3. **Comprehensive Results** dengan objective reporting
-4. **Balanced Discussion** dengan implications
-5. **Targeted Introduction** dengan known outcomes context
-6. **Strong Conclusions** dengan actionable recommendations
-7. **Compelling Abstract** yang comprehensive summary
-8. **Professional Title** yang descriptive dan engaging
-9. **Properly formatted References** yang citation-ready
