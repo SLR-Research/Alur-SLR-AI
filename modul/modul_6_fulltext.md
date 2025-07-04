@@ -4,7 +4,7 @@
 
 ## **LANGKAH 1: FULL-TEXT ACQUISITION STRATEGY**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Saya memiliki [number] artikel yang lolos title/abstract screening untuk full-text review:
 
@@ -37,16 +37,17 @@ Tolong bantu saya develop acquisition strategy:
 Berikan systematic approach untuk efficient acquisition.
 ```
 
-**Peserta implement** acquisition strategy dan organize files.
+**Implement** acquisition strategy dan organize files.
 
 ---
 
-## **LANGKAH 2: FULL-TEXT SCREENING DENGAN CLAUDE**
+## **LANGKAH 2: FULL-TEXT SCREENING DENGAN GenAI**
 
 ### **Setup Full-text Screening:**
 1. **Organize acquired PDFs** dengan naming: "ID_FirstAuthor_Year.pdf"
 2. **Create detailed screening form** berdasarkan inclusion/exclusion criteria
 3. **Prepare for systematic review** artikel by artikel
+4. **Tambahan** Jika File kurang dari 20, minta GenAI untuk menggunakan aksesnya (Tidak memerlukan Pdf)
 
 ### **Prompt untuk Full-text Screening:**
 ```
@@ -59,10 +60,12 @@ ARTIKEL DETAILS:
 - Journal: [journal]
 
 INCLUSION CRITERIA (detailed):
-[paste detailed criteria dari Modul 5]
+[Guanakan INCLUSION CRITERIA sebelumnya / paste detailed criteria dari Modul 5]
 
 EXCLUSION CRITERIA (detailed):
-[paste detailed criteria dari Modul 5]
+[Gunakan EXCLUSION CRITERIA sebelumnya / paste detailed criteria dari Modul 5]
+
+// Apabila kurang dari 20, gunakan aksesmu untuk memperoleh fulltext artikel 
 
 FULL-TEXT CONTENT:
 [paste key sections: Abstract, Methods, Results, atau key paragraphs]
@@ -96,13 +99,13 @@ Tolong evaluate artikel ini berdasarkan:
 Format comprehensive assessment.
 ```
 
-**Peserta screen** setiap artikel dan document decisions.
+**Screen** setiap artikel dan document decisions.
 
 ---
 
 ## **LANGKAH 3: FINALIZE INCLUDED STUDIES DAN PREPARE DATA EXTRACTION**
 
-### **Analyze Full-text Results dengan Claude:**
+### **Analyze Full-text Results dengan GenAI:**
 ```
 Hasil full-text screening saya:
 
@@ -189,44 +192,3 @@ NEXT STEPS:
 
 READY FOR DATA EXTRACTION: ✓
 ```
-
----
-
-## **TROUBLESHOOTING**
-
-**Problem 1: Banyak artikel tidak accessible**
-- Contact authors via email/ResearchGate
-- Check institutional repository
-- Use interlibrary loan service
-- Document efforts untuk transparency
-
-**Problem 2: Full-text tidak match dengan abstract**
-- Flag significant discrepancies
-- Base decision pada full-text content
-- Document inconsistencies
-
-**Problem 3: Methodology details unclear**
-- Contact authors untuk clarification
-- Use available information dengan limitations noted
-- Consider excluding jika critical information missing
-
-**Problem 4: Too few studies included**
-- Review exclusion criteria
-- Consider broader inclusion
-- Discuss dengan supervisor/team
-
-**Problem 5: Quality concerns dengan included studies**
-- Implement rigorous quality assessment
-- Plan sensitivity analysis
-- Document limitations clearly
-
----
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Full-text acquisition log** dengan status dan methods
-2. **Detailed screening decisions** dengan justifications
-3. **Final included studies list** dengan characteristics
-4. **PRISMA flow numbers** untuk full-text stage
-5. **Data extraction preparation** dengan study summaries
