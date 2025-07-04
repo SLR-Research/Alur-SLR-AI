@@ -2,90 +2,9 @@
 
 ---
 
-## **LANGKAH 1: ABSTRACT DAN INTRODUCTION WRITING**
+## **LANGKAH 1: METHODS WRITING**
 
-### **Prompt untuk Abstract:**
-```
-Berdasarkan complete systematic review saya:
-
-REVIEW SUMMARY:
-- Research question: [research question]
-- Search strategy: [brief methodology]
-- Studies included: [number] studies
-- Total participants: [number]
-- Key findings: [major conclusions]
-- Clinical implications: [practical recommendations]
-
-Tolong bantu tulis structured abstract (250-300 words):
-
-FORMAT ABSTRACT:
-1. BACKGROUND & OBJECTIVE (2-3 sentences)
-   - Problem statement dan rationale
-   - Review objective yang clear
-
-2. METHODS (3-4 sentences)
-   - Search strategy dan databases
-   - Inclusion criteria dan study selection
-   - Data extraction dan analysis approach
-
-3. RESULTS (4-5 sentences)
-   - Number of studies dan participants
-   - Key findings by themes
-   - Effect sizes atau outcomes (if applicable)
-
-4. CONCLUSIONS (2-3 sentences)
-   - Main conclusions
-   - Clinical/policy implications
-   - Future research needs
-
-Tulis abstract yang compelling dan informative untuk journal submission.
-```
-
-### **Prompt untuk Introduction:**
-```
-Berdasarkan research area dan findings saya:
-
-BACKGROUND CONTEXT:
-- Research area: [bidang penelitian]
-- Current knowledge: [what is known]
-- Research gaps: [identified gaps]
-- Review rationale: [why this review needed]
-
-PICO FRAMEWORK:
-P: [Population/Problem]
-I: [Intervention/Exposure]
-C: [Comparison]
-O: [Outcome]
-
-Tolong bantu tulis Introduction section (800-1000 words):
-
-STRUCTURE:
-1. BACKGROUND (3-4 paragraphs)
-   - Field overview dan importance
-   - Current state of knowledge
-   - Existing reviews dan their limitations
-   - Emerging issues atau trends
-
-2. RATIONALE (1-2 paragraphs)
-   - Why this review is needed
-   - Knowledge gaps yang will be addressed
-   - Potential contributions
-
-3. OBJECTIVES (1 paragraph)
-   - Primary objective
-   - Secondary objectives
-   - Specific research questions
-
-Tulis introduction yang engaging dan well-referenced.
-```
-
-**Develop** abstract dan introduction yang compelling.
-
----
-
-## **LANGKAH 2: METHODS DAN RESULTS WRITING**
-
-### **Prompt untuk Methods:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan methodology yang telah dilakukan:
 
@@ -128,7 +47,13 @@ STRUCTURE:
 Ensure transparency dan reproducibility.
 ```
 
-### **Prompt untuk Results:**
+**Create** methods section yang rigorous dan transparent.
+
+---
+
+## **LANGKAH 2: RESULTS WRITING**
+
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan analysis results:
 
@@ -165,13 +90,13 @@ STRUCTURE:
 Present results objectively tanpa interpretation.
 ```
 
-**Develop** methods dan results sections yang comprehensive.
+**Develop** results section yang objective dan comprehensive.
 
 ---
 
-## **LANGKAH 3: DISCUSSION, CONCLUSIONS, DAN FINALIZATION**
+## **LANGKAH 3: DISCUSSION WRITING**
 
-### **Prompt untuk Discussion:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan findings dan analysis:
 
@@ -215,42 +140,220 @@ STRUCTURE:
 Maintain balanced perspective dengan critical analysis.
 ```
 
-### **Final Manuscript Review:**
+**Create** discussion yang balanced dan insightful.
+
+---
+
+## **LANGKAH 4: INTRODUCTION WRITING**
+
+### **Prompt untuk GenAI:**
 ```
-Tolong review complete manuscript saya untuk:
+Berdasarkan research area dan findings yang sudah complete:
+
+BACKGROUND CONTEXT:
+- Research area: [bidang penelitian]
+- Current knowledge: [what is known]
+- Research gaps: [identified gaps]
+- Review rationale: [why this review needed]
+
+PICO FRAMEWORK:
+P: [Population/Problem]
+I: [Intervention/Exposure]
+C: [Comparison]
+O: [Outcome]
+
+KEY FINDINGS (untuk context):
+[paste key findings dari Results/Discussion]
+
+Tolong bantu tulis Introduction section (800-1000 words):
+
+STRUCTURE:
+1. BACKGROUND (3-4 paragraphs)
+   - Field overview dan importance
+   - Current state of knowledge
+   - Existing reviews dan their limitations
+   - Emerging issues atau trends
+
+2. RATIONALE (1-2 paragraphs)
+   - Why this review is needed
+   - Knowledge gaps yang will be addressed
+   - Potential contributions
+
+3. OBJECTIVES (1 paragraph)
+   - Primary objective
+   - Secondary objectives
+   - Specific research questions
+
+Tulis introduction yang engaging dan well-referenced, dengan knowledge bahwa kita sudah tahu findings.
+```
+
+**Develop** introduction yang compelling dengan clear rationale.
+
+---
+
+## **LANGKAH 5: CONCLUSIONS WRITING**
+
+### **Prompt untuk GenAI:**
+```
+Berdasarkan complete discussion dan findings:
+
+MAIN FINDINGS SUMMARY:
+[paste key findings dari discussion]
+
+IMPLICATIONS SUMMARY:
+[paste clinical/practical implications]
+
+Tolong bantu tulis Conclusions section (2-3 paragraphs):
+
+STRUCTURE:
+1. MAIN CONCLUSIONS (1 paragraph)
+   - Direct answer to research questions
+   - Key evidence summary
+   - Overall findings significance
+
+2. PRACTICAL IMPLICATIONS (1 paragraph)
+   - Clinical/practice recommendations
+   - Policy implications
+   - Implementation guidance
+
+3. FUTURE DIRECTIONS (1 paragraph)
+   - Priority research needs
+   - Methodological improvements
+   - Long-term research agenda
+
+Tulis conclusions yang clear, actionable, dan impactful.
+```
+
+**Finalize** conclusions yang strong dan actionable.
+
+---
+
+## **LANGKAH 6: REFERENCES FORMATTING**
+
+### **Prompt untuk GenAI:**
+```
+Saya memiliki complete manuscript dan need to format references:
 
 MANUSCRIPT SECTIONS:
-- Abstract: [paste abstract]
-- Introduction: [paste introduction]
-- Methods: [paste methods]
-- Results: [paste results]
-- Discussion: [paste discussion]
+- Methods: [paste methods section]
+- Results: [paste results section]
+- Discussion: [paste discussion section]
+- Introduction: [paste introduction section]
+- Conclusions: [paste conclusions section]
 
-REVIEW FOCUS:
-1. CONTENT COHERENCE
-   - Logical flow antar sections
-   - Consistency dalam terminology
-   - Completeness of information
+TARGET JOURNAL: [nama journal atau style guide]
 
-2. WRITING QUALITY
-   - Academic writing style
-   - Clarity dan conciseness
-   - Grammar dan syntax
+Tolong bantu saya:
 
-3. JOURNAL COMPLIANCE
-   - Word count adherence
-   - Reference formatting
-   - PRISMA guideline compliance
+1. IDENTIFY ALL CITATIONS:
+   - Extract semua citations dari manuscript
+   - Identify citation format yang digunakan
+   - Note any missing citations
 
-4. IMPACT OPTIMIZATION
-   - Key messages clarity
-   - Novelty emphasis
-   - Clinical relevance highlighting
+2. REFERENCE LIST CREATION:
+   - Format berdasarkan journal style
+   - Ensure completeness (author, year, title, journal, etc.)
+   - Check for consistency
 
-Berikan specific recommendations untuk improvement.
+3. IN-TEXT CITATION CHECK:
+   - Verify all in-text citations match reference list
+   - Check citation format consistency
+   - Ensure proper citation placement
+
+4. REFERENCE MANAGEMENT:
+   - Organize references alphabetically atau by appearance
+   - Check for duplicate references
+   - Verify citation accuracy
+
+Berikan properly formatted reference list dan in-text citation corrections.
 ```
 
-**Finalize** manuscript yang ready untuk submission.
+**Finalize** references yang properly formatted.
+
+---
+
+## **LANGKAH 7: ABSTRACT WRITING**
+
+### **Prompt untuk GenAI:**
+```
+Berdasarkan complete manuscript:
+
+MANUSCRIPT SUMMARY:
+- Methods: [brief methods summary]
+- Results: [key findings summary]
+- Discussion: [main implications]
+- Conclusions: [final conclusions]
+
+RESEARCH QUESTION: [research question]
+
+Tolong bantu tulis structured abstract (250-300 words):
+
+FORMAT ABSTRACT:
+1. BACKGROUND & OBJECTIVE (2-3 sentences)
+   - Problem statement dan rationale
+   - Review objective yang clear
+
+2. METHODS (3-4 sentences)
+   - Search strategy dan databases
+   - Inclusion criteria dan study selection
+   - Data extraction dan analysis approach
+
+3. RESULTS (4-5 sentences)
+   - Number of studies dan participants
+   - Key findings by themes
+   - Effect sizes atau outcomes (if applicable)
+
+4. CONCLUSIONS (2-3 sentences)
+   - Main conclusions
+   - Clinical/policy implications
+   - Future research needs
+
+Tulis abstract yang compelling dan informative untuk journal submission.
+```
+
+**Create** abstract yang comprehensive dan engaging.
+
+---
+
+## **LANGKAH 8: TITLE CREATION**
+
+### **Prompt untuk GenAI:**
+```
+Berdasarkan complete manuscript dan abstract:
+
+MANUSCRIPT OVERVIEW:
+- Research question: [research question]
+- Methods: [brief methods]
+- Key findings: [main findings]
+- Population: [study population]
+- Intervention: [intervention type]
+
+ABSTRACT: [paste complete abstract]
+
+Tolong bantu create compelling title:
+
+TITLE CRITERIA:
+1. DESCRIPTIVE: Clear about what study is about
+2. SPECIFIC: Include key components (population, intervention, outcome)
+3. CONCISE: Optimal length (12-16 words)
+4. ENGAGING: Attractive untuk readers
+5. SEARCHABLE: Include important keywords
+
+TITLE OPTIONS:
+- Provide 3-5 title alternatives
+- Include rationale untuk each option
+- Highlight keywords yang important
+- Consider journal audience
+
+FINAL RECOMMENDATION:
+- Best title option dengan justification
+- Keywords emphasis
+- Appeal to target audience
+
+Berikan title yang impactful dan professional.
+```
+
+**Finalize** title yang compelling dan descriptive.
 
 ---
 
@@ -260,51 +363,76 @@ Berikan specific recommendations untuk improvement.
 ```
 === MANUSCRIPT WRITING RESULTS ===
 
-MANUSCRIPT SECTIONS:
+MANUSCRIPT SECTIONS (in final order):
+- Title: ✓ Complete (compelling dan descriptive)
 - Abstract: ✓ Complete (250-300 words)
 - Introduction: ✓ Complete (800-1000 words)
 - Methods: ✓ Complete (PRISMA-compliant)
 - Results: ✓ Complete (objective reporting)
 - Discussion: ✓ Complete (balanced analysis)
 - Conclusions: ✓ Complete (actionable)
+- References: ✓ Complete (properly formatted)
 
-WORD COUNT:
-- Total manuscript: [number] words
-- Abstract: [number] words
-- Main text: [number] words
-- References: [number] citations
-
-COMPLIANCE CHECK:
-- PRISMA guidelines: ✓ Followed
-- Journal requirements: ✓ Met
-- Academic standards: ✓ Achieved
-- Ethical considerations: ✓ Addressed
+WRITING SEQUENCE BENEFITS:
+- Methods first: ✓ Clear methodology foundation
+- Results second: ✓ Objective findings established
+- Discussion third: ✓ Interpretation dengan context
+- Introduction fourth: ✓ Targeted background dengan known outcomes
+- Conclusions fifth: ✓ Strong ending dengan clear implications
+- References sixth: ✓ Proper citation formatting
+- Abstract seventh: ✓ Comprehensive summary of complete work
+- Title last: ✓ Perfect fit untuk final content
 
 QUALITY INDICATORS:
-- Clarity: ✓ Clear dan concise
-- Coherence: ✓ Logical flow
-- Completeness: ✓ Comprehensive
-- Contribution: ✓ Novel insights
-
-MANUSCRIPT STRENGTH:
-- Research question: ✓ Clearly answered
-- Methodology: ✓ Rigorous dan transparent
-- Findings: ✓ Well-synthesized
-- Implications: ✓ Practical dan relevant
-- Limitations: ✓ Honestly discussed
+- Logical flow: ✓ Enhanced by writing sequence
+- Content coherence: ✓ Each section builds on previous
+- Writing efficiency: ✓ Improved by working with known results
+- Academic quality: ✓ Professional standards met
 
 SUBMISSION READINESS:
 - Content: ✓ Complete
 - Format: ✓ Journal-ready
 - References: ✓ Properly formatted
-- Tables/Figures: ✓ Planned
-- Cover letter: Ready untuk development
+- Quality: ✓ High academic standard
 
 NEXT STEPS:
-1. Tables dan figures creation
-2. Reference formatting finalization
-3. Cover letter writing
-4. Journal submission preparation
+1. Final proofreading
+2. Cover letter writing
+3. Journal submission
 ```
+
+---
+
+## **TROUBLESHOOTING**
+
+**Problem 1: Inconsistent flow between sections**
+- Review transitions between sections
+- Ensure each section connects to next
+- Check terminology consistency
+- Verify logical progression
+
+**Problem 2: Abstract doesn't match content**
+- Review abstract against each section
+- Ensure accuracy of summary
+- Check that conclusions align
+- Verify key findings representation
+
+**Problem 3: Title too generic atau specific**
+- Balance descriptive dengan concise
+- Include key terms tanpa over-specification
+- Consider target audience
+- Test dengan colleagues untuk clarity
+
+**Problem 4: Reference formatting issues**
+- Double-check journal requirements
+- Verify citation accuracy
+- Ensure completeness of bibliographic info
+- Check in-text citation consistency
+
+**Problem 5: Introduction mismatch dengan findings**
+- Revise introduction dengan knowledge of results
+- Ensure rationale aligns dengan findings
+- Adjust emphasis based on actual results
+- Strengthen connection to discussion
 
 ---
