@@ -1,4 +1,4 @@
-# Modul 9: Manuscript Writing dengan Claude
+# Modul 9: Manuscript Writing dengan GenAI
 
 ---
 
@@ -79,7 +79,7 @@ STRUCTURE:
 Tulis introduction yang engaging dan well-referenced.
 ```
 
-**Peserta develop** abstract dan introduction yang compelling.
+**Develop** abstract dan introduction yang compelling.
 
 ---
 
@@ -165,7 +165,7 @@ STRUCTURE:
 Present results objectively tanpa interpretation.
 ```
 
-**Peserta develop** methods dan results sections yang comprehensive.
+**Develop** methods dan results sections yang comprehensive.
 
 ---
 
@@ -250,7 +250,7 @@ REVIEW FOCUS:
 Berikan specific recommendations untuk improvement.
 ```
 
-**Peserta finalize** manuscript yang ready untuk submission.
+**Finalize** manuscript yang ready untuk submission.
 
 ---
 
@@ -342,12 +342,3 @@ NEXT STEPS:
 - Strengthen connecting sentences
 
 ---
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Complete manuscript draft** dengan semua sections
-2. **PRISMA-compliant Methods** section
-3. **Comprehensive Results** dengan objective reporting
-4. **Balanced Discussion** dengan implications
-5. **Submission-ready manuscript** untuk journal review
