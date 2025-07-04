@@ -1,10 +1,10 @@
-# Modul 3: Strategi Pencarian Scopus dengan Claude
+# Modul 3: Strategi Pencarian Scopus dengan GenAI
 
 ---
 
 ## **LANGKAH 1: KEMBANGKAN KEYWORDS DARI PICO**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan PICO framework dari research question saya:
 
@@ -40,13 +40,13 @@ O - OUTCOME KEYWORDS:
 Berikan 3-5 keywords untuk setiap komponen.
 ```
 
-**Peserta review keywords** dan tambahkan terms yang mereka ketahui dari domain expertise mereka.
+**Review keywords** dan tambahkan terms yang diperlukan dari domain expertise.
 
 ---
 
 ## **LANGKAH 2: KONSTRUKSI SEARCH STRING UNTUK SCOPUS**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan keywords yang sudah dikembangkan:
 
@@ -67,7 +67,7 @@ Gunakan:
 Berikan 1 search string yang comprehensive tapi tidak terlalu broad.
 ```
 
-**Peserta copy search string** dan siap untuk testing di Scopus.
+**Copy search string** dan siap untuk testing di Scopus.
 
 ---
 
@@ -82,7 +82,7 @@ Berikan 1 search string yang comprehensive tapi tidak terlalu broad.
    - Language: English (atau sesuai kebutuhan)
    - Publication year: [sesuai research question]
 
-### **Evaluasi dan Finalisasi dengan Claude:**
+### **Evaluasi dan Finalisasi dengan GenAI:**
 ```
 Hasil search di Scopus:
 - Search string: [search string yang digunakan]
@@ -94,12 +94,11 @@ Tolong bantu saya:
 2. Jika perlu adjustment: berikan revised search string
 3. Buat inclusion/exclusion criteria berdasarkan PICO
 4. Dokumentasikan complete search strategy untuk research protocol
-5. Estimasi timeline untuk screening process
 
 Format output yang ready untuk tahap screening.
 ```
 
-**Peserta adjust search string jika diperlukan**, lalu lanjut ke dokumentasi final.
+**Adjust search string jika diperlukan**, lalu lanjut ke dokumentasi final.
 
 ---
 
@@ -170,12 +169,3 @@ NEXT STEP: Export data dan mulai screening
 - Refine PICO components
 
 ---
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Complete keyword list** untuk setiap komponen PICO
-2. **Optimized search string** untuk Scopus
-3. **Documented search strategy** dengan justification
-4. **Inclusion/exclusion criteria** yang clear
-5. **Ready-to-export dataset** untuk screening
