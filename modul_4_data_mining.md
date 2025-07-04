@@ -13,7 +13,7 @@
    - Publication year: [range yang ditentukan]
 4. **Catat total results** dan screenshot untuk dokumentasi
 
-### **Evaluasi Final dengan Claude:**
+### **Evaluasi Final dengan GenAI:**
 ```
 Final search results di Scopus:
 - Search string: [search string final]
@@ -29,7 +29,7 @@ Tolong confirm:
 Berikan go/no-go decision untuk proceed ke export.
 ```
 
-**Peserta mendapat confirmation** sebelum lanjut ke export process.
+**Confirmation** sebelum lanjut ke export process.
 
 ---
 
@@ -38,7 +38,7 @@ Berikan go/no-go decision untuk proceed ke export.
 ### **Export Process:**
 1. **Select All** hasil pencarian
 2. **Export** dengan format **CSV** 
-3. **Pilih fields** yang diperlukan (minimal untuk Claude processing):
+3. **Pilih fields** yang diperlukan (minimal untuk GenAI processing):
    - Authors
    - Title
    - Year
@@ -46,7 +46,7 @@ Berikan go/no-go decision untuk proceed ke export.
    - Author Keywords
    - Index Keywords
 
-### **Verifikasi Export dengan Claude:**
+### **Verifikasi Export dengan GenAI:**
 ```
 Saya telah export data Scopus dengan hasil:
 - Total exported records: [jumlah]
@@ -57,20 +57,20 @@ Saya telah export data Scopus dengan hasil:
 Tolong bantu:
 1. Verify apakah essential fields untuk screening sudah complete
 2. Identify potential data quality issues (missing abstracts, keywords)
-3. Recommend data cleaning steps untuk Claude processing
+3. Recommend data cleaning steps untuk GenAI processing
 4. Suggest database structure untuk screening
 5. Prepare untuk tahap screening selanjutnya
 
-Focus pada data yang dapat diproses Claude untuk screening assistance.
+Focus pada data yang dapat diproses GenAI untuk screening assistance.
 ```
 
-**Peserta mendapat guidance** untuk organize data sebelum screening.
+**Slice data** untuk organize data sebelum screening.
 
 ---
 
 ## **LANGKAH 3: ORGANIZE DATA DAN SETUP SCREENING DATABASE**
 
-### **Data Organization dengan Claude:**
+### **Data Organization dengan GenAI:**
 ```
 Saya sudah memiliki CSV file dari Scopus export. 
 Tolong bantu saya:
@@ -98,7 +98,7 @@ Tolong bantu saya:
 Berikan step-by-step instructions untuk setup.
 ```
 
-**Peserta setup screening database** berdasarkan guidance Claude.
+**Setup screening database** berdasarkan guidance GenAI.
 
 ---
 
@@ -126,7 +126,7 @@ DATA QUALITY:
 - Duplicates detected: [number]
 - Missing abstracts: [number]
 - Missing keywords: [number]
-- Data optimized for Claude processing: ✓ Ready
+- Data optimized for GenAI processing: ✓ Ready
 
 SCREENING SETUP:
 - Database structure: ✓ Ready
@@ -145,41 +145,3 @@ ESTIMATED SCREENING TIME: [estimate]
 ```
 
 ---
-
-## **TROUBLESHOOTING**
-
-**Problem 1: Export limit exceeded (>2000 records)**
-- Export in batches
-- Use multiple CSV files
-- Combine files systematically
-
-**Problem 2: Missing essential fields**
-- Re-export with correct field selection
-- Check field availability in Scopus
-- Use alternative field names
-
-**Problem 3: CSV file corrupted**
-- Try different export format (RIS, BibTeX)
-- Check file encoding (UTF-8)
-- Re-export with smaller batches
-
-**Problem 4: Duplicate records**
-- Use DOI untuk deduplication
-- Check title similarity
-- Manual verification untuk uncertain cases
-
-**Problem 5: Access issues**
-- Verify institutional access
-- Check VPN connection
-- Contact library untuk support
-
----
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Clean CSV dataset** dari Scopus export
-2. **Organized screening database** dengan proper structure
-3. **Backup files** dan documentation
-4. **Preliminary data analysis** summary
-5. **Ready-to-screen dataset** untuk Modul 5
