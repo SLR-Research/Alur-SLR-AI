@@ -4,7 +4,7 @@
 
 ## **LANGKAH 1: DESCRIPTIVE ANALYSIS DAN STUDY CHARACTERISTICS**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan complete extracted database dengan [number] studies:
 
@@ -46,13 +46,13 @@ Tolong bantu saya conduct comprehensive descriptive analysis:
 Berikan comprehensive overview yang ready untuk Results section.
 ```
 
-**Peserta organize** descriptive results dan prepare untuk deeper analysis.
+**Organize** descriptive results dan prepare untuk deeper analysis.
 
 ---
 
 ## **LANGKAH 2: THEMATIC ANALYSIS DAN EVIDENCE SYNTHESIS**
 
-### **Comprehensive Synthesis dengan Claude:**
+### **Comprehensive Synthesis dengan GenAI:**
 ```
 Berdasarkan extracted findings dari [number] studies:
 
@@ -96,13 +96,13 @@ Tolong conduct systematic thematic analysis:
 Berikan comprehensive synthesis yang answer research question.
 ```
 
-**Peserta develop** evidence synthesis dan key findings.
+**Develop** evidence synthesis dan key findings.
 
 ---
 
 ## **LANGKAH 3: EVIDENCE GRADING DAN FINAL SYNTHESIS**
 
-### **Final Evidence Assessment dengan Claude:**
+### **Final Evidence Assessment dengan GenAI:**
 ```
 Berdasarkan complete analysis hasil:
 
@@ -147,7 +147,7 @@ Tolong bantu final evidence evaluation:
 Berikan comprehensive final synthesis ready untuk manuscript writing.
 ```
 
-**Peserta finalize** analysis dan prepare untuk writing phase.
+**Finalize** analysis dan prepare untuk writing phase.
 
 ---
 
