@@ -4,7 +4,7 @@
 
 ## **LANGKAH 1: SETUP DATA EXTRACTION FRAMEWORK**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan final included studies dan research question saya:
 
@@ -45,11 +45,11 @@ Tolong bantu saya develop comprehensive data extraction framework:
 Berikan ready-to-use extraction template.
 ```
 
-**Peserta review dan customize** extraction framework sesuai dengan studies mereka.
+**Review dan customize** extraction framework sesuai dengan studies mereka.
 
 ---
 
-## **LANGKAH 2: SYSTEMATIC DATA EXTRACTION DENGAN CLAUDE**
+## **LANGKAH 2: SYSTEMATIC DATA EXTRACTION DENGAN GenAI**
 
 ### **Extract Data Per Study:**
 ```
@@ -92,13 +92,13 @@ Tolong extract semua relevant data berdasarkan template:
 Berikan extracted data dalam format yang consistent dan comprehensive.
 ```
 
-**Peserta extract** data dari setiap study secara systematic.
+**Extract** data dari setiap study secara systematic.
 
 ---
 
 ## **LANGKAH 3: QUALITY ASSESSMENT DAN DATA SYNTHESIS PREPARATION**
 
-### **Comprehensive Quality Assessment dengan Claude:**
+### **Comprehensive Quality Assessment dengan GenAI:**
 ```
 Berdasarkan extracted data dari [number] studies:
 
@@ -139,7 +139,7 @@ Tolong bantu saya:
 Berikan comprehensive assessment dan synthesis recommendations.
 ```
 
-**Peserta finalize** data extraction dan prepare untuk analysis phase.
+**Finalize** data extraction dan prepare untuk analysis phase.
 
 ---
 
@@ -207,41 +207,3 @@ NEXT STEPS:
 ```
 
 ---
-
-## **TROUBLESHOOTING**
-
-**Problem 1: Missing critical data**
-- Contact authors untuk clarification
-- Use "not reported" dengan systematic documentation
-- Plan sensitivity analysis excluding incomplete studies
-
-**Problem 2: Inconsistent reporting across studies**
-- Standardize data where possible
-- Document variations clearly
-- Consider subgroup analysis by reporting quality
-
-**Problem 3: Poor study quality**
-- Implement sensitivity analysis
-- Weight results by quality scores
-- Discuss limitations extensively
-
-**Problem 4: Heterogeneous outcomes**
-- Group by similar outcome measures
-- Use narrative synthesis approach
-- Focus on pattern identification
-
-**Problem 5: Large extraction workload**
-- Prioritize by study importance
-- Use systematic extraction order
-- Implement quality checks regularly
-
----
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Complete data extraction database** dengan standardized format
-2. **Quality assessment summary** untuk setiap study
-3. **Study characteristics table** untuk manuscript
-4. **Synthesis-ready dataset** untuk analysis
-5. **Evidence quality evaluation** dengan recommendations
