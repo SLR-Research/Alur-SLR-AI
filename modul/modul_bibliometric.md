@@ -15,7 +15,7 @@
    - Index Keywords
    - Abstract
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Saya akan melakukan keyword co-occurrence analysis untuk SLNA menggunakan VOSviewer.
 
@@ -52,7 +52,7 @@ Tolong bantu saya:
 Berikan systematic plan untuk keyword co-occurrence analysis.
 ```
 
-**Peserta setup** data dan parameters untuk VOSviewer keyword analysis.
+**Setup** data dan parameters untuk VOSviewer keyword analysis.
 
 ---
 
@@ -71,7 +71,7 @@ Berikan systematic plan untuk keyword co-occurrence analysis.
 1. **Network Visualization**: Research theme clusters
 2. **Overlay Visualization**: Temporal evolution (by year)
 
-### **Prompt untuk Claude setelah VOSviewer Analysis:**
+### **Prompt untuk GenAI setelah VOSviewer Analysis:**
 ```
 Saya telah melakukan keyword co-occurrence analysis dengan VOSviewer:
 
@@ -120,13 +120,13 @@ Tolong bantu interpretasi hasil ini:
 Berikan comprehensive keyword co-occurrence interpretation.
 ```
 
-**Peserta analyze** keyword patterns dan interpret research themes.
+**Analyze** keyword patterns dan interpret research themes.
 
 ---
 
 ## **LANGKAH 3: INTEGRATION DENGAN SYSTEMATIC REVIEW**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan hasil keyword co-occurrence analysis dan systematic review:
 
@@ -168,7 +168,7 @@ Tolong bantu integrate kedua analysis ini:
 Berikan integrated analysis yang comprehensive untuk SLNA.
 ```
 
-**Peserta integrate** keyword analysis dengan systematic review findings.
+**Integrate** keyword analysis dengan systematic review findings.
 
 ---
 
@@ -276,13 +276,3 @@ NEXT STEPS:
 - Highlight complementary insights
 
 ---
-
-## **DELIVERABLES**
-
-Setiap peserta menghasilkan:
-1. **Keyword co-occurrence network map** dengan clear cluster visualization
-2. **Overlay visualization** showing temporal evolution of themes
-3. **Research theme analysis** dengan comprehensive interpretation
-4. **Integrated SLNA findings** combining keyword analysis dengan systematic review
-5. **Evidence-based research recommendations** berdasarkan theme evolution
-6. **Publication-ready figures** untuk manuscript inclusion
