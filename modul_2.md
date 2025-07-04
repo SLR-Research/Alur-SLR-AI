@@ -19,7 +19,7 @@ Format:
 TOPIK 1: [nama topik] - Gap: [research gap] - Mengapa penting: [alasan]
 ```
 
-**Peserta memilih 1 topik** yang paling sesuai dengan minat dan expertise mereka.
+**Pilih 1 topik** yang paling sesuai dengan minat dan expertise.
 
 ---
 
@@ -39,7 +39,6 @@ O (Outcome): Hasil apa yang diukur? (misal: prestasi belajar, kepuasan, efektivi
 Berikan 1 pilihan untuk setiap komponen yang realistis dan spesifik.
 ```
 
-**Peserta review dan adjust** PICO jika perlu sesuai dengan pengetahuan mereka tentang topik tersebut.
 
 ---
 
@@ -47,7 +46,7 @@ Berikan 1 pilihan untuk setiap komponen yang realistis dan spesifik.
 
 ### **Prompt untuk Claude:**
 ```
-Berdasarkan PICO saya:
+Berdasarkan PICO saya/diatas:
 P: [Population yang dipilih]
 I: [Intervention yang dipilih]
 C: [Comparison yang dipilih]
@@ -55,12 +54,12 @@ O: [Outcome yang dipilih]
 
 Tolong formulasikan:
 1. PRIMARY RESEARCH QUESTION yang jelas dan fokus
-2. 1 SECONDARY QUESTION yang mendukung
+2. 3 SECONDARY QUESTION yang mendukung
 
 Format research question yang dapat dijawab dengan systematic review.
 ```
 
-**Peserta evaluasi** apakah research question ini sesuai dengan yang mereka inginkan.
+**Evaluasi** apakah research question ini sesuai dengan interest.
 
 ---
 
@@ -68,7 +67,7 @@ Format research question yang dapat dijawab dengan systematic review.
 
 ### **Prompt untuk Claude:**
 ```
-Research question saya: [research question yang sudah dibuat]
+Research question saya/di atas: [research question yang sudah dibuat]
 
 Tolong cek menggunakan FINER criteria:
 F - Feasible: Bisa dilakukan dengan systematic review?
@@ -80,7 +79,7 @@ R - Relevant: Berguna untuk praktik/kebijakan?
 Berikan brief assessment dan saran jika ada yang perlu diperbaiki.
 ```
 
-**Jika ada yang perlu diperbaiki**, peserta bisa kembali ke langkah sebelumnya untuk revisi.
+**Jika ada yang perlu diperbaiki**, bisa kembali ke langkah sebelumnya untuk revisi.
 
 ---
 
@@ -109,11 +108,3 @@ NEXT STEP: Develop search strategy untuk Scopus
 ```
 
 ---
-
-## **MENGAPA APPROACH INI LEBIH BAIK**
-
-✅ **Kontrol peserta** - mereka memilih dan review di setiap langkah
-✅ **Tidak over-engineering** - Claude fokus pada 1 tugas per prompt
-✅ **Pembelajaran bertahap** - peserta memahami setiap komponen
-✅ **Fleksibilitas** - bisa revisi di langkah manapun
-✅ **Quality control** - ada checkpoint di setiap tahap
