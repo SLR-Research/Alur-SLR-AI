@@ -1,10 +1,10 @@
-# Modul 2: Perumusan Research Question dengan Claude
+# Modul 2: Perumusan Research Question dengan GenAI
 
 ---
 
 ## **LANGKAH 1: TENTUKAN TOPIK PENELITIAN**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Saya seorang peneliti di bidang [sebutkan bidang spesifik, misal: teknologi pendidikan].
 
@@ -25,7 +25,7 @@ TOPIK 1: [nama topik] - Gap: [research gap] - Mengapa penting: [alasan]
 
 ## **LANGKAH 2: BUAT PICO FRAMEWORK**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Topik penelitian saya: [topik yang dipilih]
 
@@ -44,7 +44,7 @@ Berikan 1 pilihan untuk setiap komponen yang realistis dan spesifik.
 
 ## **LANGKAH 3: FORMULASIKAN RESEARCH QUESTION**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Berdasarkan PICO saya/diatas:
 P: [Population yang dipilih]
@@ -65,7 +65,7 @@ Format research question yang dapat dijawab dengan systematic review.
 
 ## **LANGKAH 4: CEK KUALITAS DENGAN FINER**
 
-### **Prompt untuk Claude:**
+### **Prompt untuk GenAI:**
 ```
 Research question saya/di atas: [research question yang sudah dibuat]
 
