@@ -50,7 +50,8 @@
 - [Modul 8-B: Data Analysis dan Synthesis Bibliometric](modul/modul_bibliometric.md)
 
 ## **MODUL 9: Manuscript Writing dengan GenAI**
-- [Modul 9: Manuscript Writing](.modul/modul_9_writing.md)
+- [Modul 9: Manuscript Writing](.modul/modul_9_writing-new.md)
+  
 
 ---
 
