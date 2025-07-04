@@ -38,9 +38,12 @@
 ## **MODUL 5: SCREENING DAN SELECTION DENGAN Gen AI**
 - [Modul 5: Title/Abstract Screening dengan GenAI](.modul/modul_5_screening.md)
 
----
+## **MODUL 6: FULL TEXT Full-text Acquisition dan Screening**
+- [Modul 6: FULL TEXT Full-text Acquisition](.modul/modul_6_fulltext.md)
 
 ## **MODUL 7: DATA EXTRACTION DAN DATABASE BUILDING**
+- [Modul 7: Data Extraction dan Quality Assessment](.modul/modul_7_extraction.md)
+
 
 ### **Langkah 1: Setup Data Extraction Database**
 **Create Comprehensive Database Structure:**
