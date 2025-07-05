@@ -36,7 +36,7 @@
 - [Modul 4: Data mining Scopus](./modul/modul_4_data_mining.md)
 
 ## **MODUL 5: SCREENING DAN SELECTION DENGAN Gen AI**
-- [Modul 5: Title/Abstract Screening dengan GenAI](./modul_5_screening.md)
+- [Modul 5: Title/Abstract Screening dengan GenAI](./modul/modul_5_screening.md)
 
 ## **MODUL 6: FULL TEXT Full-text Acquisition dan Screening**
 - [Modul 6: FULL TEXT Full-text Acquisition](./modul/modul_6_fulltext.md)
