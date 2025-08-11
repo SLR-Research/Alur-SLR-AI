@@ -90,7 +90,7 @@ Hasil search di Scopus:
 - Setelah filter: [jumlah setelah filter]
 
 Tolong bantu saya:
-1. Evaluasi apakah jumlah results reasonable untuk SLR? (ideal: 100-1000 articles)
+1. Evaluasi apakah jumlah results reasonable untuk SLR? (ideal: 50-300 articles)
 2. Jika perlu adjustment: berikan revised search string
 3. Buat inclusion/exclusion criteria berdasarkan PICO
 4. Dokumentasikan complete search strategy untuk research protocol
@@ -148,7 +148,7 @@ NEXT STEP: Export data dan mulai screening
 
 ## **TROUBLESHOOTING**
 
-**Problem 1: Results terlalu banyak (>1000)**
+**Problem 1: Results terlalu banyak (>300)**
 - Tambahkan specific terms
 - Narrow down time period
 - Add more restrictive filters

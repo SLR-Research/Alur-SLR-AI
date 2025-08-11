@@ -10,7 +10,7 @@ Saya seorang peneliti di bidang [sebutkan bidang spesifik, misal: teknologi pend
 
 Saya tertarik pada area [sebutkan area yang diminati, misal: pembelajaran online, AI dalam pendidikan, dsb].
 
-Tolong suggest 3 topik penelitian yang:
+Gunakan aksesmu dan Tolong suggest 3 topik penelitian yang:
 1. Memiliki research gap yang jelas
 2. Cocok untuk systematic literature review
 3. Relevan dengan praktik saat ini
