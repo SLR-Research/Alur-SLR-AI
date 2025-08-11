@@ -58,10 +58,10 @@ Ensure transparency dan reproducibility.
 Berdasarkan analysis results untuk SLNA:
 
 SYSTEMATIC REVIEW RESULTS:
-[paste hasil dari Modul 8: descriptive analysis, thematic synthesis, evidence grading]
+[gunakan hasil dari Modul 8: descriptive analysis, thematic synthesis, evidence grading]
 
 BIBLIOMETRIC ANALYSIS RESULTS:
-[paste hasil dari Modul 8A: keyword co-occurrence, network visualization, overlay visualization]
+[gunakan hasil dari Modul 8A: keyword co-occurrence, network visualization, overlay visualization]
 
 PRISMA NUMBERS:
 - Initial search: [number]
@@ -115,16 +115,16 @@ Present results objectively dengan integration of both systematic dan bibliometr
 Berdasarkan integrated findings untuk SLNA:
 
 SYSTEMATIC REVIEW FINDINGS:
-[paste key results dari systematic analysis]
+[gunakan key results dari systematic analysis]
 
 BIBLIOMETRIC ANALYSIS FINDINGS:
-[paste key results dari keyword co-occurrence analysis]
+[gunakan key results dari keyword co-occurrence analysis]
 
 INTEGRATED SLNA INSIGHTS:
-[paste integration results dari Modul 8A]
+[gunakan integration results dari Modul 8A]
 
 RESEARCH QUESTIONS:
-[paste original research questions]
+[gunakan original research questions]
 
 Tolong bantu tulis Discussion section untuk SLNA:
 
@@ -188,9 +188,9 @@ C: [Comparison]
 O: [Outcome]
 
 SLNA FINDINGS (untuk context):
-- Key systematic findings: [paste key findings]
-- Research theme landscape: [paste theme results]
-- Temporal evolution: [paste evolution insights]
+- Key systematic findings: [gunakan key findings]
+- Research theme landscape: [gunakan theme results]
+- Temporal evolution: [gunakan evolution insights]
 
 Tolong bantu tulis Introduction section untuk SLNA (800-1000 words):
 
@@ -227,13 +227,13 @@ Tulis introduction yang engaging dan justify SLNA approach dengan knowledge dari
 Berdasarkan complete SLNA discussion dan findings:
 
 INTEGRATED SLNA FINDINGS:
-[paste key findings dari integrated analysis]
+[gunakan key findings dari integrated analysis]
 
 RESEARCH THEME IMPLICATIONS:
-[paste theme-based implications]
+[gunakan theme-based implications]
 
 NETWORK ANALYSIS INSIGHTS:
-[paste network-based insights]
+[gunakan network-based insights]
 
 Tolong bantu tulis Conclusions section untuk SLNA (3-4 paragraphs):
 
@@ -270,11 +270,11 @@ Tulis conclusions yang comprehensive, highlighting unique SLNA contributions.
 Saya memiliki complete manuscript dan need to format references:
 
 MANUSCRIPT SECTIONS:
-- Methods: [paste methods section]
-- Results: [paste results section]
-- Discussion: [paste discussion section]
-- Introduction: [paste introduction section]
-- Conclusions: [paste conclusions section]
+- Methods: [gunakan methods section]
+- Results: [gunakan results section]
+- Discussion: [gunakan discussion section]
+- Introduction: [gunakan introduction section]
+- Conclusions: [gunakan conclusions section]
 
 TARGET JOURNAL: [nama journal atau style guide]
 
@@ -375,7 +375,7 @@ SLNA MANUSCRIPT OVERVIEW:
 - Population: [study population]
 - Intervention: [intervention type]
 
-SLNA ABSTRACT: [paste complete abstract]
+SLNA ABSTRACT: [gunakan complete abstract]
 
 UNIQUE SLNA CONTRIBUTIONS:
 - Research theme mapping
