@@ -75,7 +75,7 @@ Berikan 1 search string yang comprehensive tapi tidak terlalu broad.
 
 ### **Praktik di Scopus:**
 1. **Login ke Scopus** dan masuk ke Advanced Search
-2. **Paste search string** yang sudah dibuat
+2. **Gunakan search string** yang sudah dibuat
 3. **Jalankan search** dan catat jumlah results
 4. **Set basic filters**:
    - Document type: Article, Review
