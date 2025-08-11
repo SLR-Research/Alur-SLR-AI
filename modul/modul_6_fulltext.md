@@ -9,7 +9,7 @@
 Saya memiliki [number] artikel yang lolos title/abstract screening untuk full-text review:
 
 ARTICLES LIST:
-[paste list artikel dengan format: Author, Year, Title, Journal]
+[Gunakan list artikel dengan format: Author, Year, Title, Journal]
 
 Tolong bantu saya develop acquisition strategy:
 
@@ -60,15 +60,15 @@ ARTIKEL DETAILS:
 - Journal: [journal]
 
 INCLUSION CRITERIA (detailed):
-[Guanakan INCLUSION CRITERIA sebelumnya / paste detailed criteria dari Modul 5]
+[Guanakan INCLUSION CRITERIA sebelumnya / Gunakan detailed criteria dari Modul 5]
 
 EXCLUSION CRITERIA (detailed):
-[Gunakan EXCLUSION CRITERIA sebelumnya / paste detailed criteria dari Modul 5]
+[Gunakan EXCLUSION CRITERIA sebelumnya / Gunakan detailed criteria dari Modul 5]
 
 // Apabila kurang dari 20, gunakan aksesmu untuk memperoleh fulltext artikel 
 
 FULL-TEXT CONTENT:
-[paste key sections: Abstract, Methods, Results, atau key paragraphs]
+[Gunakan key sections: Abstract, Methods, Results, atau key paragraphs]
 
 Tolong evaluate artikel ini berdasarkan:
 
