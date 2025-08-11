@@ -58,10 +58,10 @@ STUDY FOR EXTRACTION:
 - Study ID: [assign unique ID]
 
 EXTRACTION TEMPLATE:
-[paste template yang sudah dibuat]
+[Gunakan template yang sudah dibuat]
 
 STUDY CONTENT:
-[paste key sections: Abstract, Methods, Results, Discussion]
+[Gunakan key sections: Abstract, Methods, Results, Discussion]
 
 Tolong extract semua relevant data berdasarkan template:
 
@@ -103,7 +103,7 @@ Berikan extracted data dalam format yang consistent dan comprehensive.
 Berdasarkan extracted data dari [number] studies:
 
 EXTRACTED DATA SUMMARY:
-[paste summary dari semua extracted data]
+[Gunakan summary dari semua extracted data]
 
 Tolong bantu saya:
 
