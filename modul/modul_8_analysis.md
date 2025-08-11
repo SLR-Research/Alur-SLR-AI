@@ -9,7 +9,7 @@
 Berdasarkan complete extracted database dengan [number] studies:
 
 EXTRACTED DATABASE:
-[paste summary data dari semua studies: study IDs, designs, populations, interventions, outcomes, key results]
+[Gunakan summary data dari semua studies: study IDs, designs, populations, interventions, outcomes, key results]
 
 Tolong bantu saya conduct comprehensive descriptive analysis:
 
@@ -57,7 +57,7 @@ Berikan comprehensive overview yang ready untuk Results section.
 Berdasarkan extracted findings dari [number] studies:
 
 KEY FINDINGS SUMMARY:
-[paste key results, conclusions, dan main findings dari setiap study]
+[Gunakan key results, conclusions, dan main findings dari setiap study]
 
 RESEARCH QUESTION: [research question]
 
@@ -107,10 +107,10 @@ Berikan comprehensive synthesis yang answer research question.
 Berdasarkan complete analysis hasil:
 
 SYNTHESIS RESULTS:
-[paste hasil dari thematic analysis dan evidence synthesis]
+[Gunakan hasil dari thematic analysis dan evidence synthesis]
 
 STUDY QUALITY DATA:
-[paste quality assessment summary]
+[Gunakan quality assessment summary]
 
 Tolong bantu final evidence evaluation:
 
