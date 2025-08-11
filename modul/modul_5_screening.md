@@ -54,10 +54,10 @@ Buat criteria yang clear, measurable, dan can be applied consistently.
 Saya akan melakukan title/abstract screening untuk systematic review.
 
 INCLUSION CRITERIA:
-[Gunakan inclusion criteria diatas/paste criteria yang sudah dibuat]
+[Gunakan inclusion criteria diatas/Gunakan criteria yang sudah dibuat]
 
 EXCLUSION CRITERIA:
-[Gunakan exclusion criteria diatas/paste criteria yang sudah dibuat]
+[Gunakan exclusion criteria diatas/Gunakan criteria yang sudah dibuat]
 
 DATA UNTUK SCREENING:
 [Gunakan dataset csv hasil tambang dari scopus]
