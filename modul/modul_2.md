@@ -118,8 +118,4 @@ NEXT STEP: Develop search strategy untuk Scopus
 - 🌱 I’m currently learning **Agentic AI in Vocational Education**
 - 📫 How to reach me **mubaroq@digitalbdg.ac.id**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p>&nbsp;
